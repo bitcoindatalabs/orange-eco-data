@@ -1,0 +1,4462 @@
+{
+  "0xMagnuz/Bitcoin-v0.1": {
+    "total_issue_events": 0,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "0xchat-app/cashu-dart": {
+    "total_issue_events": 0,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "0xtlt/nostr_rust": {
+    "total_issue_events": 16,
+    "total_issue_comments": 43,
+    "avg_commenters_per_month": 1.75
+  },
+  "0xtrr/nostr-tool": {
+    "total_issue_events": 50,
+    "total_issue_comments": 85,
+    "avg_commenters_per_month": 2.23
+  },
+  "100trillionUSD/bitcoin": {
+    "total_issue_events": 10,
+    "total_issue_comments": 21,
+    "avg_commenters_per_month": 0.83
+  },
+  "1200wd/bitcoinlib": {
+    "total_issue_events": 472,
+    "total_issue_comments": 700,
+    "avg_commenters_per_month": 2.6
+  },
+  "1234max/multivendorbitcoinmart": {
+    "total_issue_events": 1,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "21isenough/LightningATM": {
+    "total_issue_events": 32,
+    "total_issue_comments": 136,
+    "avg_commenters_per_month": 2.06
+  },
+  "2miners/stratum-ping": {
+    "total_issue_events": 26,
+    "total_issue_comments": 18,
+    "avg_commenters_per_month": 1.08
+  },
+  "6102bitcoin/FAQ": {
+    "total_issue_events": 13,
+    "total_issue_comments": 8,
+    "avg_commenters_per_month": 0.83
+  },
+  "8go/nostr-commander-rs": {
+    "total_issue_events": 6,
+    "total_issue_comments": 15,
+    "avg_commenters_per_month": 1.29
+  },
+  "ACINQ/bitcoin-kmp": {
+    "total_issue_events": 19,
+    "total_issue_comments": 74,
+    "avg_commenters_per_month": 1.5
+  },
+  "ACINQ/eclair": {
+    "total_issue_events": 1368,
+    "total_issue_comments": 4960,
+    "avg_commenters_per_month": 8.25
+  },
+  "ACINQ/eclair-mobile": {
+    "total_issue_events": 204,
+    "total_issue_comments": 453,
+    "avg_commenters_per_month": 4.58
+  },
+  "ACINQ/lightning-kmp": {
+    "total_issue_events": 56,
+    "total_issue_comments": 339,
+    "avg_commenters_per_month": 2.71
+  },
+  "ACINQ/phoenix": {
+    "total_issue_events": 557,
+    "total_issue_comments": 1205,
+    "avg_commenters_per_month": 6.24
+  },
+  "ACINQ/phoenixd": {
+    "total_issue_events": 118,
+    "total_issue_comments": 253,
+    "avg_commenters_per_month": 4.19
+  },
+  "ACINQ/secp256k1-kmp": {
+    "total_issue_events": 49,
+    "total_issue_comments": 100,
+    "avg_commenters_per_month": 1.63
+  },
+  "AlexCurl/Bitcoin-Webserver": {
+    "total_issue_events": 2,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "Anarkoic/runes": {
+    "total_issue_events": 3,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.5
+  },
+  "AngusP/phoenixd-lnurl": {
+    "total_issue_events": 10,
+    "total_issue_comments": 17,
+    "avg_commenters_per_month": 1.33
+  },
+  "Ayms/bitcoin-transactions": {
+    "total_issue_events": 76,
+    "total_issue_comments": 118,
+    "avg_commenters_per_month": 1.81
+  },
+  "Ayms/bitcoin-wallets": {
+    "total_issue_events": 4,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 1.0
+  },
+  "BTCPrivate/BitcoinPrivate-legacy": {
+    "total_issue_events": 12,
+    "total_issue_comments": 3,
+    "avg_commenters_per_month": 0.4
+  },
+  "Bit-Wasp/bitcoin-lib-php": {
+    "total_issue_events": 67,
+    "total_issue_comments": 260,
+    "avg_commenters_per_month": 1.71
+  },
+  "Bit-Wasp/bitcoin-p2p-php": {
+    "total_issue_events": 8,
+    "total_issue_comments": 33,
+    "avg_commenters_per_month": 1.43
+  },
+  "Bit-Wasp/bitcoin-php": {
+    "total_issue_events": 470,
+    "total_issue_comments": 1217,
+    "avg_commenters_per_month": 2.87
+  },
+  "Bit-Wasp/secp256k1-php": {
+    "total_issue_events": 54,
+    "total_issue_comments": 91,
+    "avg_commenters_per_month": 1.31
+  },
+  "BitGo/bitgo-utxo-lib": {
+    "total_issue_events": 32,
+    "total_issue_comments": 94,
+    "avg_commenters_per_month": 2.0
+  },
+  "BitVM/BitVM": {
+    "total_issue_events": 151,
+    "total_issue_comments": 498,
+    "avg_commenters_per_month": 4.88
+  },
+  "BitVM/bitvm-js": {
+    "total_issue_events": 1,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.5
+  },
+  "BitVM/rust-bitcoin-scriptexec": {
+    "total_issue_events": 0,
+    "total_issue_comments": 4,
+    "avg_commenters_per_month": 1.0
+  },
+  "Bitcoin-ABC/bitcoin-abc": {
+    "total_issue_events": 669,
+    "total_issue_comments": 1763,
+    "avg_commenters_per_month": 8.04
+  },
+  "Bitcoin-N/Android-Miner": {
+    "total_issue_events": 2,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "Bitcoin-Wildlife-Sanctuary/bitcoin-circle-stark": {
+    "total_issue_events": 6,
+    "total_issue_comments": 39,
+    "avg_commenters_per_month": 2.0
+  },
+  "Bitcoin-com/Wallet": {
+    "total_issue_events": 211,
+    "total_issue_comments": 446,
+    "avg_commenters_per_month": 4.55
+  },
+  "BitcoinAmiens/dogecoin-spv-node": {
+    "total_issue_events": 14,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 0.33
+  },
+  "BitcoinAndLightningLayerSpecs/lsp": {
+    "total_issue_events": 45,
+    "total_issue_comments": 415,
+    "avg_commenters_per_month": 4.11
+  },
+  "BitcoinDesign/Bitcoin-Core-App": {
+    "total_issue_events": 133,
+    "total_issue_comments": 407,
+    "avg_commenters_per_month": 2.94
+  },
+  "BitcoinDesign/Bitcoin-Icons": {
+    "total_issue_events": 98,
+    "total_issue_comments": 182,
+    "avg_commenters_per_month": 1.97
+  },
+  "BitcoinDesign/Guide": {
+    "total_issue_events": 751,
+    "total_issue_comments": 2928,
+    "avg_commenters_per_month": 7.57
+  },
+  "BitcoinDesign/Meta": {
+    "total_issue_events": 1332,
+    "total_issue_comments": 1210,
+    "avg_commenters_per_month": 5.09
+  },
+  "BitcoinDevShop/lightning-privacy-research": {
+    "total_issue_events": 3,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 1.0
+  },
+  "BitcoinDevShop/pln": {
+    "total_issue_events": 56,
+    "total_issue_comments": 34,
+    "avg_commenters_per_month": 1.6
+  },
+  "BitcoinExchangeFH/BitcoinExchangeFH": {
+    "total_issue_events": 67,
+    "total_issue_comments": 51,
+    "avg_commenters_per_month": 0.96
+  },
+  "BitcoinInterestOfficial/BitcoinInterest": {
+    "total_issue_events": 22,
+    "total_issue_comments": 28,
+    "avg_commenters_per_month": 1.86
+  },
+  "BitcoinOpReturn/OpReturnTool": {
+    "total_issue_events": 7,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 1.0
+  },
+  "BitcoinPHP/BitcoinECDSA.php": {
+    "total_issue_events": 26,
+    "total_issue_comments": 39,
+    "avg_commenters_per_month": 0.89
+  },
+  "BitcoinQnA/seedtool": {
+    "total_issue_events": 46,
+    "total_issue_comments": 80,
+    "avg_commenters_per_month": 1.95
+  },
+  "BitcoinSchema/1sat-ordinals": {
+    "total_issue_events": 0,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "BitcoinSchema/js-1sat-ord": {
+    "total_issue_events": 2,
+    "total_issue_comments": 4,
+    "avg_commenters_per_month": 0.67
+  },
+  "BitcoinUnlimited/BitcoinUnlimited": {
+    "total_issue_events": 491,
+    "total_issue_comments": 4811,
+    "avg_commenters_per_month": 9.25
+  },
+  "BlockChainCaffe/Nostr-Relay-Setup-Guide": {
+    "total_issue_events": 10,
+    "total_issue_comments": 10,
+    "avg_commenters_per_month": 0.88
+  },
+  "BlockchainCommons/Bitcoin-Standup-Scripts": {
+    "total_issue_events": 16,
+    "total_issue_comments": 74,
+    "avg_commenters_per_month": 2.07
+  },
+  "BlockchainCommons/Learning-Bitcoin-from-the-Command-Line": {
+    "total_issue_events": 103,
+    "total_issue_comments": 523,
+    "avg_commenters_per_month": 2.22
+  },
+  "Blockstream/Jade": {
+    "total_issue_events": 326,
+    "total_issue_comments": 1173,
+    "avg_commenters_per_month": 5.72
+  },
+  "Blockstream/docs": {
+    "total_issue_events": 0,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "Blockstream/electrs": {
+    "total_issue_events": 39,
+    "total_issue_comments": 363,
+    "avg_commenters_per_month": 2.58
+  },
+  "Blockstream/esplora": {
+    "total_issue_events": 553,
+    "total_issue_comments": 975,
+    "avg_commenters_per_month": 4.55
+  },
+  "Blockstream/gdk": {
+    "total_issue_events": 87,
+    "total_issue_comments": 313,
+    "avg_commenters_per_month": 2.25
+  },
+  "Blockstream/green_android": {
+    "total_issue_events": 433,
+    "total_issue_comments": 702,
+    "avg_commenters_per_month": 3.98
+  },
+  "Blockstream/green_cli": {
+    "total_issue_events": 13,
+    "total_issue_comments": 163,
+    "avg_commenters_per_month": 2.17
+  },
+  "Blockstream/green_ios": {
+    "total_issue_events": 88,
+    "total_issue_comments": 104,
+    "avg_commenters_per_month": 1.44
+  },
+  "Blockstream/green_qt": {
+    "total_issue_events": 278,
+    "total_issue_comments": 419,
+    "avg_commenters_per_month": 2.83
+  },
+  "Blockstream/greenlight": {
+    "total_issue_events": 224,
+    "total_issue_comments": 611,
+    "avg_commenters_per_month": 4.83
+  },
+  "Blockstream/lwk": {
+    "total_issue_events": 53,
+    "total_issue_comments": 176,
+    "avg_commenters_per_month": 3.21
+  },
+  "Blockstream/satellite": {
+    "total_issue_events": 138,
+    "total_issue_comments": 309,
+    "avg_commenters_per_month": 2.05
+  },
+  "Blockstream/satellite-api": {
+    "total_issue_events": 15,
+    "total_issue_comments": 8,
+    "avg_commenters_per_month": 0.86
+  },
+  "BlockstreamResearch/bip-frost-dkg": {
+    "total_issue_events": 70,
+    "total_issue_comments": 179,
+    "avg_commenters_per_month": 2.19
+  },
+  "BlockstreamResearch/secp256k1-zkp": {
+    "total_issue_events": 27,
+    "total_issue_comments": 168,
+    "avg_commenters_per_month": 2.41
+  },
+  "BlueWallet/BlueWallet": {
+    "total_issue_events": 2852,
+    "total_issue_comments": 21010,
+    "avg_commenters_per_month": 18.6
+  },
+  "BlueWallet/GroundControl": {
+    "total_issue_events": 35,
+    "total_issue_comments": 31,
+    "avg_commenters_per_month": 0.9
+  },
+  "BlueWallet/LndHub": {
+    "total_issue_events": 272,
+    "total_issue_comments": 654,
+    "avg_commenters_per_month": 3.11
+  },
+  "BlueWallet/VerifySignature": {
+    "total_issue_events": 22,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "BlueWallet/rn-ldk": {
+    "total_issue_events": 30,
+    "total_issue_comments": 60,
+    "avg_commenters_per_month": 1.48
+  },
+  "BtcGroupCn/MasterBitcoin2ndCn": {
+    "total_issue_events": 4,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.4
+  },
+  "CodyTseng/nostr-relay-tray": {
+    "total_issue_events": 25,
+    "total_issue_comments": 48,
+    "avg_commenters_per_month": 1.62
+  },
+  "Coinomi/bip39": {
+    "total_issue_events": 0,
+    "total_issue_comments": 16,
+    "avg_commenters_per_month": 1.25
+  },
+  "Coinomi/bitcoinj": {
+    "total_issue_events": 0,
+    "total_issue_comments": 7,
+    "avg_commenters_per_month": 1.5
+  },
+  "Coldcard/firmware": {
+    "total_issue_events": 0,
+    "total_issue_comments": 334,
+    "avg_commenters_per_month": 2.3
+  },
+  "CoreyKaylor/Lightning.NET": {
+    "total_issue_events": 170,
+    "total_issue_comments": 463,
+    "avg_commenters_per_month": 2.33
+  },
+  "CorvusCodex/Multithread-Bitcoin-Brute-Force": {
+    "total_issue_events": 3,
+    "total_issue_comments": 7,
+    "avg_commenters_per_month": 1.5
+  },
+  "CoxxA/bitcoin-ahr999-HODL": {
+    "total_issue_events": 5,
+    "total_issue_comments": 8,
+    "avg_commenters_per_month": 0.88
+  },
+  "Crypto-Expert/stratum-mining": {
+    "total_issue_events": 119,
+    "total_issue_comments": 154,
+    "avg_commenters_per_month": 1.58
+  },
+  "CryptoManiac/stratum-mining-proxy": {
+    "total_issue_events": 1,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "DanConwayDev/nostr-profile-manager": {
+    "total_issue_events": 6,
+    "total_issue_comments": 17,
+    "avg_commenters_per_month": 1.22
+  },
+  "DeckerSU/yiimp-stratum-equihash": {
+    "total_issue_events": 5,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.4
+  },
+  "DoubleSha/BitcoinSwift": {
+    "total_issue_events": 10,
+    "total_issue_comments": 25,
+    "avg_commenters_per_month": 1.17
+  },
+  "DrSkippy/Data-Science-45min-Intros": {
+    "total_issue_events": 2,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.5
+  },
+  "ElementsProject/ELIPs": {
+    "total_issue_events": 3,
+    "total_issue_comments": 149,
+    "avg_commenters_per_month": 2.08
+  },
+  "ElementsProject/confidential-assets-demo": {
+    "total_issue_events": 3,
+    "total_issue_comments": 18,
+    "avg_commenters_per_month": 2.0
+  },
+  "ElementsProject/elements": {
+    "total_issue_events": 841,
+    "total_issue_comments": 3699,
+    "avg_commenters_per_month": 6.29
+  },
+  "ElementsProject/filebazaar": {
+    "total_issue_events": 11,
+    "total_issue_comments": 23,
+    "avg_commenters_per_month": 1.0
+  },
+  "ElementsProject/ifpaytt": {
+    "total_issue_events": 1,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "ElementsProject/libwally-core": {
+    "total_issue_events": 232,
+    "total_issue_comments": 895,
+    "avg_commenters_per_month": 3.13
+  },
+  "ElementsProject/lightning": {
+    "total_issue_events": 6063,
+    "total_issue_comments": 25064,
+    "avg_commenters_per_month": 27.14
+  },
+  "ElementsProject/lightning-charge": {
+    "total_issue_events": 125,
+    "total_issue_comments": 226,
+    "avg_commenters_per_month": 1.95
+  },
+  "ElementsProject/lightning-charge-client-js": {
+    "total_issue_events": 8,
+    "total_issue_comments": 14,
+    "avg_commenters_per_month": 1.0
+  },
+  "ElementsProject/nanopos": {
+    "total_issue_events": 13,
+    "total_issue_comments": 25,
+    "avg_commenters_per_month": 1.62
+  },
+  "ElementsProject/nanotip": {
+    "total_issue_events": 6,
+    "total_issue_comments": 6,
+    "avg_commenters_per_month": 1.33
+  },
+  "ElementsProject/paypercall": {
+    "total_issue_events": 4,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 0.8
+  },
+  "ElementsProject/peerswap": {
+    "total_issue_events": 250,
+    "total_issue_comments": 954,
+    "avg_commenters_per_month": 4.0
+  },
+  "ElementsProject/rust-elements": {
+    "total_issue_events": 50,
+    "total_issue_comments": 526,
+    "avg_commenters_per_month": 2.65
+  },
+  "ElementsProject/woocommerce-gateway-lightning": {
+    "total_issue_events": 26,
+    "total_issue_comments": 71,
+    "avg_commenters_per_month": 1.82
+  },
+  "ElementsProject/wordpress-lightning-publisher": {
+    "total_issue_events": 10,
+    "total_issue_comments": 25,
+    "avg_commenters_per_month": 1.67
+  },
+  "GBKS/bitcoin-wallet-ui-kit": {
+    "total_issue_events": 79,
+    "total_issue_comments": 94,
+    "avg_commenters_per_month": 1.76
+  },
+  "GammaGao/bitcoinwhitepaper": {
+    "total_issue_events": 4,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.25
+  },
+  "HandshakeAlliance/hstratum": {
+    "total_issue_events": 9,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.29
+  },
+  "Henshall/BitcoinPrivateKeyHunter": {
+    "total_issue_events": 7,
+    "total_issue_comments": 7,
+    "avg_commenters_per_month": 0.86
+  },
+  "HugoXOX3/PythonBitcoinMiner": {
+    "total_issue_events": 64,
+    "total_issue_comments": 40,
+    "avg_commenters_per_month": 0.93
+  },
+  "JamieAcharya/Bitcoin-Private-Key-Finder": {
+    "total_issue_events": 10,
+    "total_issue_comments": 21,
+    "avg_commenters_per_month": 0.77
+  },
+  "JoinMarket-Org/joinmarket": {
+    "total_issue_events": 739,
+    "total_issue_comments": 2796,
+    "avg_commenters_per_month": 6.89
+  },
+  "JoinMarket-Org/joinmarket-clientserver": {
+    "total_issue_events": 1202,
+    "total_issue_comments": 7862,
+    "avg_commenters_per_month": 9.98
+  },
+  "JulyIghor/QtBitcoinTrader": {
+    "total_issue_events": 66,
+    "total_issue_comments": 144,
+    "avg_commenters_per_month": 1.74
+  },
+  "KaffinPX/KStratum": {
+    "total_issue_events": 18,
+    "total_issue_comments": 13,
+    "avg_commenters_per_month": 1.12
+  },
+  "KoalaSat/nostros": {
+    "total_issue_events": 132,
+    "total_issue_comments": 387,
+    "avg_commenters_per_month": 4.12
+  },
+  "Kukks/LNURL": {
+    "total_issue_events": 4,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.25
+  },
+  "Kukks/NNostr": {
+    "total_issue_events": 26,
+    "total_issue_comments": 38,
+    "avg_commenters_per_month": 1.54
+  },
+  "LedgerHQ/app-bitcoin": {
+    "total_issue_events": 36,
+    "total_issue_comments": 66,
+    "avg_commenters_per_month": 1.62
+  },
+  "LedgerHQ/app-bitcoin-new": {
+    "total_issue_events": 165,
+    "total_issue_comments": 335,
+    "avg_commenters_per_month": 2.63
+  },
+  "LedgerHQ/app-boilerplate": {
+    "total_issue_events": 12,
+    "total_issue_comments": 54,
+    "avg_commenters_per_month": 1.48
+  },
+  "LedgerHQ/app-boilerplate-rust": {
+    "total_issue_events": 24,
+    "total_issue_comments": 43,
+    "avg_commenters_per_month": 1.53
+  },
+  "LedgerHQ/app-exchange": {
+    "total_issue_events": 7,
+    "total_issue_comments": 51,
+    "avg_commenters_per_month": 1.36
+  },
+  "LedgerHQ/app-monero": {
+    "total_issue_events": 66,
+    "total_issue_comments": 197,
+    "avg_commenters_per_month": 2.44
+  },
+  "LedgerHQ/app-ssh-agent": {
+    "total_issue_events": 15,
+    "total_issue_comments": 70,
+    "avg_commenters_per_month": 1.48
+  },
+  "LedgerHQ/blue-devenv": {
+    "total_issue_events": 2,
+    "total_issue_comments": 4,
+    "avg_commenters_per_month": 1.0
+  },
+  "LedgerHQ/blue-loader-python": {
+    "total_issue_events": 64,
+    "total_issue_comments": 126,
+    "avg_commenters_per_month": 1.67
+  },
+  "LedgerHQ/btchip-python": {
+    "total_issue_events": 37,
+    "total_issue_comments": 89,
+    "avg_commenters_per_month": 1.33
+  },
+  "LedgerHQ/ledger-app-builder": {
+    "total_issue_events": 28,
+    "total_issue_comments": 89,
+    "avg_commenters_per_month": 1.79
+  },
+  "LedgerHQ/ledger-device-rust-sdk": {
+    "total_issue_events": 44,
+    "total_issue_comments": 148,
+    "avg_commenters_per_month": 2.6
+  },
+  "LedgerHQ/ledger-live": {
+    "total_issue_events": 499,
+    "total_issue_comments": 4402,
+    "avg_commenters_per_month": 29.15
+  },
+  "LedgerHQ/ledger-live-common": {
+    "total_issue_events": 177,
+    "total_issue_comments": 914,
+    "avg_commenters_per_month": 6.98
+  },
+  "LedgerHQ/ledger-live-desktop": {
+    "total_issue_events": 1908,
+    "total_issue_comments": 5962,
+    "avg_commenters_per_month": 36.86
+  },
+  "LedgerHQ/ledger-live-mobile": {
+    "total_issue_events": 192,
+    "total_issue_comments": 1210,
+    "avg_commenters_per_month": 8.53
+  },
+  "LedgerHQ/ledger-manager-chrome": {
+    "total_issue_events": 28,
+    "total_issue_comments": 57,
+    "avg_commenters_per_month": 1.95
+  },
+  "LedgerHQ/ledger-nano-s": {
+    "total_issue_events": 95,
+    "total_issue_comments": 185,
+    "avg_commenters_per_month": 2.1
+  },
+  "LedgerHQ/ledger-sample-apps": {
+    "total_issue_events": 2,
+    "total_issue_comments": 8,
+    "avg_commenters_per_month": 0.8
+  },
+  "LedgerHQ/ledger-wallet-api": {
+    "total_issue_events": 25,
+    "total_issue_comments": 23,
+    "avg_commenters_per_month": 1.11
+  },
+  "LedgerHQ/ledger-wallet-chrome": {
+    "total_issue_events": 107,
+    "total_issue_comments": 179,
+    "avg_commenters_per_month": 3.18
+  },
+  "LedgerHQ/ledgerctl": {
+    "total_issue_events": 31,
+    "total_issue_comments": 44,
+    "avg_commenters_per_month": 1.29
+  },
+  "LedgerHQ/ledgerjs": {
+    "total_issue_events": 604,
+    "total_issue_comments": 1333,
+    "avg_commenters_per_month": 10.78
+  },
+  "LedgerHQ/ledgerjs-examples": {
+    "total_issue_events": 0,
+    "total_issue_comments": 3,
+    "avg_commenters_per_month": 1.5
+  },
+  "LedgerHQ/lib-ledger-core": {
+    "total_issue_events": 35,
+    "total_issue_comments": 465,
+    "avg_commenters_per_month": 3.14
+  },
+  "LedgerHQ/lib-ledger-core-node-bindings": {
+    "total_issue_events": 6,
+    "total_issue_comments": 62,
+    "avg_commenters_per_month": 1.55
+  },
+  "LedgerHQ/nanos-secure-sdk": {
+    "total_issue_events": 34,
+    "total_issue_comments": 55,
+    "avg_commenters_per_month": 1.0
+  },
+  "LedgerHQ/satstack": {
+    "total_issue_events": 93,
+    "total_issue_comments": 316,
+    "avg_commenters_per_month": 2.62
+  },
+  "LedgerHQ/speculos": {
+    "total_issue_events": 172,
+    "total_issue_comments": 479,
+    "avg_commenters_per_month": 2.68
+  },
+  "LedgerHQ/wallet-api": {
+    "total_issue_events": 51,
+    "total_issue_comments": 62,
+    "avg_commenters_per_month": 1.87
+  },
+  "LopeKinz/ByeBye-Bitcoin-Remaster": {
+    "total_issue_events": 6,
+    "total_issue_comments": 19,
+    "avg_commenters_per_month": 1.27
+  },
+  "LtbLightning/bdk-rn": {
+    "total_issue_events": 67,
+    "total_issue_comments": 77,
+    "avg_commenters_per_month": 1.29
+  },
+  "LtbLightning/ldk-node-rn": {
+    "total_issue_events": 5,
+    "total_issue_comments": 3,
+    "avg_commenters_per_month": 0.5
+  },
+  "LtbLightning/payjoin-ffi": {
+    "total_issue_events": 60,
+    "total_issue_comments": 160,
+    "avg_commenters_per_month": 2.31
+  },
+  "Marfusios/nostr-client": {
+    "total_issue_events": 12,
+    "total_issue_comments": 19,
+    "avg_commenters_per_month": 1.0
+  },
+  "MaxHillebrand/LightningMultiSig": {
+    "total_issue_events": 5,
+    "total_issue_comments": 6,
+    "avg_commenters_per_month": 1.2
+  },
+  "MetacoSA/NBitcoin": {
+    "total_issue_events": 922,
+    "total_issue_comments": 4539,
+    "avg_commenters_per_month": 7.11
+  },
+  "Michal2SAB/Bitcoin-Stealer": {
+    "total_issue_events": 176,
+    "total_issue_comments": 301,
+    "avg_commenters_per_month": 2.55
+  },
+  "Mizogg/4Bitcoin": {
+    "total_issue_events": 5,
+    "total_issue_comments": 11,
+    "avg_commenters_per_month": 2.0
+  },
+  "Mizogg/4Bitcoin-pySimpleGUI": {
+    "total_issue_events": 2,
+    "total_issue_comments": 3,
+    "avg_commenters_per_month": 1.5
+  },
+  "Mizogg/AIBitcoin": {
+    "total_issue_events": 2,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 2.0
+  },
+  "Mizogg/BITCOIN-WIF-Recovery": {
+    "total_issue_events": 10,
+    "total_issue_comments": 9,
+    "avg_commenters_per_month": 1.2
+  },
+  "Mizogg/massiveM.py-Search-for-Bitcoin-From-12-Word-Mnemonics": {
+    "total_issue_events": 3,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.5
+  },
+  "MutinyWallet/bitcoin-waila": {
+    "total_issue_events": 10,
+    "total_issue_comments": 11,
+    "avg_commenters_per_month": 1.0
+  },
+  "MutinyWallet/blastr": {
+    "total_issue_events": 4,
+    "total_issue_comments": 7,
+    "avg_commenters_per_month": 1.17
+  },
+  "MutinyWallet/mutiny-node": {
+    "total_issue_events": 402,
+    "total_issue_comments": 831,
+    "avg_commenters_per_month": 4.89
+  },
+  "MutinyWallet/mutiny-web": {
+    "total_issue_events": 1082,
+    "total_issue_comments": 2784,
+    "avg_commenters_per_month": 16.04
+  },
+  "NostrGit/NostrGit": {
+    "total_issue_events": 180,
+    "total_issue_comments": 681,
+    "avg_commenters_per_month": 7.2
+  },
+  "NovaCrypto/BIP32": {
+    "total_issue_events": 29,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.14
+  },
+  "NovaCrypto/BIP39": {
+    "total_issue_events": 38,
+    "total_issue_comments": 31,
+    "avg_commenters_per_month": 0.84
+  },
+  "NovaCrypto/BIP44": {
+    "total_issue_events": 7,
+    "total_issue_comments": 6,
+    "avg_commenters_per_month": 0.83
+  },
+  "OCEAN-xyz/datum_gateway": {
+    "total_issue_events": 60,
+    "total_issue_comments": 201,
+    "avg_commenters_per_month": 4.06
+  },
+  "ORP967/Bitcoin_Core_RPC_par_address": {
+    "total_issue_events": 4,
+    "total_issue_comments": 4,
+    "avg_commenters_per_month": 0.75
+  },
+  "OptimalLukasDev/Bitcoin-Wallet-finder": {
+    "total_issue_events": 1,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "PaulGregor/Bitcoin-Keys-Generator": {
+    "total_issue_events": 6,
+    "total_issue_comments": 8,
+    "avg_commenters_per_month": 1.17
+  },
+  "PedroD/monero-stratum-docker": {
+    "total_issue_events": 2,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 1.0
+  },
+  "PiSimo/BitcoinForecast": {
+    "total_issue_events": 32,
+    "total_issue_comments": 48,
+    "avg_commenters_per_month": 1.15
+  },
+  "Polve/bitcoin-rpc-client": {
+    "total_issue_events": 21,
+    "total_issue_comments": 51,
+    "avg_commenters_per_month": 1.14
+  },
+  "Pymmdrza/BitcoinXPowerHunter": {
+    "total_issue_events": 8,
+    "total_issue_comments": 3,
+    "avg_commenters_per_month": 1.0
+  },
+  "RGB-Tools/rgb-lightning-node": {
+    "total_issue_events": 84,
+    "total_issue_comments": 135,
+    "avg_commenters_per_month": 2.29
+  },
+  "RGB-Tools/rgb-lightning-sample": {
+    "total_issue_events": 7,
+    "total_issue_comments": 8,
+    "avg_commenters_per_month": 1.25
+  },
+  "RGB-WG/rgb": {
+    "total_issue_events": 217,
+    "total_issue_comments": 362,
+    "avg_commenters_per_month": 3.3
+  },
+  "RGB-WG/rgb-core": {
+    "total_issue_events": 167,
+    "total_issue_comments": 310,
+    "avg_commenters_per_month": 2.52
+  },
+  "RGB-WG/rgb-node": {
+    "total_issue_events": 56,
+    "total_issue_comments": 140,
+    "avg_commenters_per_month": 2.69
+  },
+  "RGB-WG/rgb-schemata": {
+    "total_issue_events": 19,
+    "total_issue_comments": 52,
+    "avg_commenters_per_month": 1.53
+  },
+  "RGB-WG/rgb-sdk": {
+    "total_issue_events": 2,
+    "total_issue_comments": 15,
+    "avg_commenters_per_month": 1.8
+  },
+  "RGB-WG/rgb-std": {
+    "total_issue_events": 125,
+    "total_issue_comments": 374,
+    "avg_commenters_per_month": 3.0
+  },
+  "RadiantBlockchain/rad-bfgminer": {
+    "total_issue_events": 11,
+    "total_issue_comments": 28,
+    "avg_commenters_per_month": 1.0
+  },
+  "RavenCommunity/kawpow-stratum-pool": {
+    "total_issue_events": 12,
+    "total_issue_comments": 25,
+    "avg_commenters_per_month": 1.55
+  },
+  "Reckless-Satoshi/robosats": {
+    "total_issue_events": 166,
+    "total_issue_comments": 801,
+    "avg_commenters_per_month": 7.53
+  },
+  "RevokeCash/browser-extension": {
+    "total_issue_events": 43,
+    "total_issue_comments": 28,
+    "avg_commenters_per_month": 0.71
+  },
+  "RevokeCash/revoke.cash": {
+    "total_issue_events": 184,
+    "total_issue_comments": 325,
+    "avg_commenters_per_month": 2.62
+  },
+  "Ride-The-Lightning/RTL": {
+    "total_issue_events": 1268,
+    "total_issue_comments": 1905,
+    "avg_commenters_per_month": 6.86
+  },
+  "Ride-The-Lightning/c-lightning-REST": {
+    "total_issue_events": 160,
+    "total_issue_comments": 275,
+    "avg_commenters_per_month": 2.46
+  },
+  "RoboSats/robosats": {
+    "total_issue_events": 365,
+    "total_issue_comments": 1261,
+    "avg_commenters_per_month": 7.08
+  },
+  "SChernykh/p2pool": {
+    "total_issue_events": 534,
+    "total_issue_comments": 1345,
+    "avg_commenters_per_month": 5.84
+  },
+  "SMH17/bitcoin-hacking-tools": {
+    "total_issue_events": 40,
+    "total_issue_comments": 55,
+    "avg_commenters_per_month": 1.17
+  },
+  "SamSamskies/nostr-zap": {
+    "total_issue_events": 32,
+    "total_issue_comments": 19,
+    "avg_commenters_per_month": 0.82
+  },
+  "Samourai-Wallet/boltzmann": {
+    "total_issue_events": 7,
+    "total_issue_comments": 8,
+    "avg_commenters_per_month": 1.2
+  },
+  "Samourai-Wallet/samourai-dojo": {
+    "total_issue_events": 122,
+    "total_issue_comments": 188,
+    "avg_commenters_per_month": 2.75
+  },
+  "Samourai-Wallet/samourai-wallet-android": {
+    "total_issue_events": 402,
+    "total_issue_comments": 511,
+    "avg_commenters_per_month": 3.88
+  },
+  "Samourai-Wallet/sentinel-android": {
+    "total_issue_events": 46,
+    "total_issue_comments": 74,
+    "avg_commenters_per_month": 1.7
+  },
+  "Samourai-Wallet/whirlpool-gui": {
+    "total_issue_events": 53,
+    "total_issue_comments": 73,
+    "avg_commenters_per_month": 1.95
+  },
+  "SatoshiPortal/boltz-rust": {
+    "total_issue_events": 40,
+    "total_issue_comments": 154,
+    "avg_commenters_per_month": 2.15
+  },
+  "SatoshiPortal/cyphernode": {
+    "total_issue_events": 166,
+    "total_issue_comments": 423,
+    "avg_commenters_per_month": 2.21
+  },
+  "SatoshiPortal/dockers": {
+    "total_issue_events": 19,
+    "total_issue_comments": 18,
+    "avg_commenters_per_month": 1.1
+  },
+  "SatoshiPortal/lwk-dart": {
+    "total_issue_events": 53,
+    "total_issue_comments": 76,
+    "avg_commenters_per_month": 1.6
+  },
+  "SeedSigner/seedsigner": {
+    "total_issue_events": 391,
+    "total_issue_comments": 2448,
+    "avg_commenters_per_month": 8.83
+  },
+  "Souhardya/bitcoinstealer": {
+    "total_issue_events": 2,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "Stratehm/stratum-proxy": {
+    "total_issue_events": 142,
+    "total_issue_comments": 211,
+    "avg_commenters_per_month": 1.67
+  },
+  "SubstratumNetwork/SubstratumNode": {
+    "total_issue_events": 410,
+    "total_issue_comments": 162,
+    "avg_commenters_per_month": 2.68
+  },
+  "TBD54566975/dap": {
+    "total_issue_events": 31,
+    "total_issue_comments": 51,
+    "avg_commenters_per_month": 3.17
+  },
+  "TBD54566975/developer.tbd.website": {
+    "total_issue_events": 1051,
+    "total_issue_comments": 1927,
+    "avg_commenters_per_month": 13.23
+  },
+  "TBD54566975/open-source-programs": {
+    "total_issue_events": 114,
+    "total_issue_comments": 92,
+    "avg_commenters_per_month": 2.33
+  },
+  "TBD54566975/ssi-sdk": {
+    "total_issue_events": 178,
+    "total_issue_comments": 413,
+    "avg_commenters_per_month": 2.79
+  },
+  "TBD54566975/ssi-service": {
+    "total_issue_events": 297,
+    "total_issue_comments": 523,
+    "avg_commenters_per_month": 4.45
+  },
+  "TBD54566975/tbd-project-template": {
+    "total_issue_events": 2,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.33
+  },
+  "TBD54566975/tbdex": {
+    "total_issue_events": 161,
+    "total_issue_comments": 369,
+    "avg_commenters_per_month": 6.69
+  },
+  "TBD54566975/tbdex-js": {
+    "total_issue_events": 129,
+    "total_issue_comments": 238,
+    "avg_commenters_per_month": 5.17
+  },
+  "TBD54566975/tbdex-rs": {
+    "total_issue_events": 61,
+    "total_issue_comments": 68,
+    "avg_commenters_per_month": 1.3
+  },
+  "TBD54566975/tbdex-whitepaper": {
+    "total_issue_events": 3,
+    "total_issue_comments": 17,
+    "avg_commenters_per_month": 1.43
+  },
+  "TensorFlowKR/dlcampjeju": {
+    "total_issue_events": 18,
+    "total_issue_comments": 15,
+    "avg_commenters_per_month": 2.0
+  },
+  "TheBlueMatt/rust-lightning-bitcoinrpc": {
+    "total_issue_events": 13,
+    "total_issue_comments": 27,
+    "avg_commenters_per_month": 1.71
+  },
+  "TheCharlatan/rust-bitcoinkernel": {
+    "total_issue_events": 16,
+    "total_issue_comments": 49,
+    "avg_commenters_per_month": 1.89
+  },
+  "TheZ3ro/bitcoin-privatekey-db": {
+    "total_issue_events": 26,
+    "total_issue_comments": 23,
+    "avg_commenters_per_month": 1.08
+  },
+  "UnitedBitcoin/UnitedBitcoin": {
+    "total_issue_events": 38,
+    "total_issue_comments": 53,
+    "avg_commenters_per_month": 1.81
+  },
+  "ViktYusk/BitcoinBruteForcer": {
+    "total_issue_events": 4,
+    "total_issue_comments": 22,
+    "avg_commenters_per_month": 1.4
+  },
+  "WeiChiaChang/stacks-cli": {
+    "total_issue_events": 29,
+    "total_issue_comments": 73,
+    "avg_commenters_per_month": 4.22
+  },
+  "ZeroSync/ZeroSync": {
+    "total_issue_events": 52,
+    "total_issue_comments": 36,
+    "avg_commenters_per_month": 1.0
+  },
+  "ZeroSync/header_chain": {
+    "total_issue_events": 3,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "ZeusLN/zeus": {
+    "total_issue_events": 1782,
+    "total_issue_comments": 3644,
+    "avg_commenters_per_month": 9.07
+  },
+  "aceat64/EasyBitcoin-PHP": {
+    "total_issue_events": 50,
+    "total_issue_comments": 51,
+    "avg_commenters_per_month": 1.36
+  },
+  "adamritter/nostr-relaypool-ts": {
+    "total_issue_events": 44,
+    "total_issue_comments": 54,
+    "avg_commenters_per_month": 2.17
+  },
+  "adrijano/Bitcoin-brainwallet-recovery": {
+    "total_issue_events": 2,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "adrijano/Bitcoin-wallet-cracker": {
+    "total_issue_events": 74,
+    "total_issue_comments": 89,
+    "avg_commenters_per_month": 1.86
+  },
+  "adshao/ordinals-indexer": {
+    "total_issue_events": 7,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.5
+  },
+  "ahmedbodi/stratum-mining": {
+    "total_issue_events": 4,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 1.0
+  },
+  "ajtowns/taproot-review": {
+    "total_issue_events": 8,
+    "total_issue_comments": 64,
+    "avg_commenters_per_month": 4.0
+  },
+  "akiomik/nostrends": {
+    "total_issue_events": 1,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 1.0
+  },
+  "alecalve/python-bitcoin-blockchain-parser": {
+    "total_issue_events": 116,
+    "total_issue_comments": 278,
+    "avg_commenters_per_month": 2.1
+  },
+  "alexbosworth/balanceofsatoshis": {
+    "total_issue_events": 676,
+    "total_issue_comments": 905,
+    "avg_commenters_per_month": 3.04
+  },
+  "alexbosworth/lightning": {
+    "total_issue_events": 157,
+    "total_issue_comments": 316,
+    "avg_commenters_per_month": 1.83
+  },
+  "alexk111/awesome-bitcoin-payment-processors": {
+    "total_issue_events": 13,
+    "total_issue_comments": 54,
+    "avg_commenters_per_month": 1.5
+  },
+  "aljazceru/awesome-nostr": {
+    "total_issue_events": 55,
+    "total_issue_comments": 130,
+    "avg_commenters_per_month": 1.95
+  },
+  "altangent/lightning-viz": {
+    "total_issue_events": 17,
+    "total_issue_comments": 9,
+    "avg_commenters_per_month": 0.78
+  },
+  "ameijer/bitcoin_wallet_recovery_tool": {
+    "total_issue_events": 22,
+    "total_issue_comments": 15,
+    "avg_commenters_per_month": 0.92
+  },
+  "anders94/bitcoin-supply.com": {
+    "total_issue_events": 1,
+    "total_issue_comments": 6,
+    "avg_commenters_per_month": 1.0
+  },
+  "andkom/php-bitcoin-wallet": {
+    "total_issue_events": 1,
+    "total_issue_comments": 6,
+    "avg_commenters_per_month": 1.5
+  },
+  "andreasgriffin/bitcoin-safe": {
+    "total_issue_events": 77,
+    "total_issue_comments": 104,
+    "avg_commenters_per_month": 1.83
+  },
+  "andrerfneves/lightning-address": {
+    "total_issue_events": 61,
+    "total_issue_comments": 141,
+    "avg_commenters_per_month": 1.78
+  },
+  "apoelstra/secp256k1-zkp": {
+    "total_issue_events": 5,
+    "total_issue_comments": 6,
+    "avg_commenters_per_month": 1.0
+  },
+  "arcbtc/LNURLPoS": {
+    "total_issue_events": 15,
+    "total_issue_comments": 23,
+    "avg_commenters_per_month": 2.8
+  },
+  "arcbtc/M5StackSats": {
+    "total_issue_events": 30,
+    "total_issue_comments": 60,
+    "avg_commenters_per_month": 2.5
+  },
+  "arcbtc/bitcoinVend": {
+    "total_issue_events": 3,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.5
+  },
+  "arcbtc/bowser-bitcoin-hardware-wallet": {
+    "total_issue_events": 14,
+    "total_issue_comments": 10,
+    "avg_commenters_per_month": 0.5
+  },
+  "arduino-bitcoin/arduino-bitcoin": {
+    "total_issue_events": 13,
+    "total_issue_comments": 3,
+    "avg_commenters_per_month": 0.5
+  },
+  "arduino-bitcoin/simple_hardware_wallet": {
+    "total_issue_events": 22,
+    "total_issue_comments": 19,
+    "avg_commenters_per_month": 1.67
+  },
+  "arik-so/SwiftLightning": {
+    "total_issue_events": 8,
+    "total_issue_comments": 4,
+    "avg_commenters_per_month": 3.0
+  },
+  "arikan/bitcoin-voting": {
+    "total_issue_events": 4,
+    "total_issue_comments": 3,
+    "avg_commenters_per_month": 0.67
+  },
+  "ark-network/ark": {
+    "total_issue_events": 217,
+    "total_issue_comments": 308,
+    "avg_commenters_per_month": 5.92
+  },
+  "ark-network/tapscripts": {
+    "total_issue_events": 2,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.5
+  },
+  "arthurgervais/Bitcoin-Simulation": {
+    "total_issue_events": 4,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "arthurgervais/Bitcoin-Simulator": {
+    "total_issue_events": 16,
+    "total_issue_comments": 14,
+    "avg_commenters_per_month": 0.59
+  },
+  "atdixon/me.untethr.nostr-relay": {
+    "total_issue_events": 7,
+    "total_issue_comments": 16,
+    "avg_commenters_per_month": 1.17
+  },
+  "attakercyebr/Bitcoin-chance-wheel": {
+    "total_issue_events": 9,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "babylonchain/babylon": {
+    "total_issue_events": 219,
+    "total_issue_comments": 307,
+    "avg_commenters_per_month": 5.05
+  },
+  "babylonchain/babylon-relayer": {
+    "total_issue_events": 6,
+    "total_issue_comments": 11,
+    "avg_commenters_per_month": 1.11
+  },
+  "babylonchain/vigilante": {
+    "total_issue_events": 51,
+    "total_issue_comments": 69,
+    "avg_commenters_per_month": 1.85
+  },
+  "balletcrypto/bitcoin-inscription-parser": {
+    "total_issue_events": 0,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "barmstrong/bitcoin-android": {
+    "total_issue_events": 5,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.4
+  },
+  "bboerst/stratum-work": {
+    "total_issue_events": 33,
+    "total_issue_comments": 42,
+    "avg_commenters_per_month": 1.25
+  },
+  "bcoin-org/bcoin": {
+    "total_issue_events": 1027,
+    "total_issue_comments": 3666,
+    "avg_commenters_per_month": 7.12
+  },
+  "bcongdon/awesome-lightning-network": {
+    "total_issue_events": 14,
+    "total_issue_comments": 50,
+    "avg_commenters_per_month": 1.23
+  },
+  "believethehype/nostrdvm": {
+    "total_issue_events": 5,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 1.0
+  },
+  "benjiqq/bitcoinArchive": {
+    "total_issue_events": 1,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 1.0
+  },
+  "bernardladenthin/BitcoinAddressFinder": {
+    "total_issue_events": 85,
+    "total_issue_comments": 162,
+    "avg_commenters_per_month": 1.52
+  },
+  "berryjam/mastering-bitcoin-3rd": {
+    "total_issue_events": 7,
+    "total_issue_comments": 11,
+    "avg_commenters_per_month": 1.17
+  },
+  "bethanyuo/bitcoin-wallet": {
+    "total_issue_events": 2,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.5
+  },
+  "biscottigelato/SwiftLightning": {
+    "total_issue_events": 32,
+    "total_issue_comments": 42,
+    "avg_commenters_per_month": 1.9
+  },
+  "bisq-network/bisq": {
+    "total_issue_events": 3417,
+    "total_issue_comments": 13687,
+    "avg_commenters_per_month": 27.35
+  },
+  "bisq-network/bisq2": {
+    "total_issue_events": 1751,
+    "total_issue_comments": 2717,
+    "avg_commenters_per_month": 8.83
+  },
+  "bitcoin-0/btc0": {
+    "total_issue_events": 5,
+    "total_issue_comments": 26,
+    "avg_commenters_per_month": 14.0
+  },
+  "bitcoin-abe/bitcoin-abe": {
+    "total_issue_events": 168,
+    "total_issue_comments": 540,
+    "avg_commenters_per_month": 2.86
+  },
+  "bitcoin-cap/bcap": {
+    "total_issue_events": 46,
+    "total_issue_comments": 111,
+    "avg_commenters_per_month": 2.85
+  },
+  "bitcoin-computer/BRC20": {
+    "total_issue_events": 0,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "bitcoin-core-review-club/website": {
+    "total_issue_events": 34,
+    "total_issue_comments": 722,
+    "avg_commenters_per_month": 3.67
+  },
+  "bitcoin-core/HWI": {
+    "total_issue_events": 446,
+    "total_issue_comments": 2136,
+    "avg_commenters_per_month": 6.1
+  },
+  "bitcoin-core/bitcoin-detached-sigs": {
+    "total_issue_events": 6,
+    "total_issue_comments": 14,
+    "avg_commenters_per_month": 0.89
+  },
+  "bitcoin-core/bitcoin-devwiki": {
+    "total_issue_events": 0,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "bitcoin-core/bitcoin-maintainer-tools": {
+    "total_issue_events": 65,
+    "total_issue_comments": 343,
+    "avg_commenters_per_month": 2.34
+  },
+  "bitcoin-core/bitcoincore.org": {
+    "total_issue_events": 372,
+    "total_issue_comments": 2098,
+    "avg_commenters_per_month": 7.24
+  },
+  "bitcoin-core/btcdeb": {
+    "total_issue_events": 107,
+    "total_issue_comments": 130,
+    "avg_commenters_per_month": 1.31
+  },
+  "bitcoin-core/docs": {
+    "total_issue_events": 61,
+    "total_issue_comments": 152,
+    "avg_commenters_per_month": 2.1
+  },
+  "bitcoin-core/gitian.sigs": {
+    "total_issue_events": 25,
+    "total_issue_comments": 237,
+    "avg_commenters_per_month": 3.05
+  },
+  "bitcoin-core/gui": {
+    "total_issue_events": 538,
+    "total_issue_comments": 4718,
+    "avg_commenters_per_month": 13.63
+  },
+  "bitcoin-core/gui-qml": {
+    "total_issue_events": 139,
+    "total_issue_comments": 1398,
+    "avg_commenters_per_month": 4.61
+  },
+  "bitcoin-core/guix.sigs": {
+    "total_issue_events": 42,
+    "total_issue_comments": 267,
+    "avg_commenters_per_month": 3.54
+  },
+  "bitcoin-core/minisketch": {
+    "total_issue_events": 0,
+    "total_issue_comments": 4,
+    "avg_commenters_per_month": 1.33
+  },
+  "bitcoin-core/secp256k1": {
+    "total_issue_events": 722,
+    "total_issue_comments": 6208,
+    "avg_commenters_per_month": 9.58
+  },
+  "bitcoin-data/mining-pools": {
+    "total_issue_events": 28,
+    "total_issue_comments": 41,
+    "avg_commenters_per_month": 1.0
+  },
+  "bitcoin-dev-project/battle-of-galen-erso": {
+    "total_issue_events": 4,
+    "total_issue_comments": 8,
+    "avg_commenters_per_month": 1.25
+  },
+  "bitcoin-dev-project/bitcoin-dev-project": {
+    "total_issue_events": 93,
+    "total_issue_comments": 287,
+    "avg_commenters_per_month": 3.39
+  },
+  "bitcoin-dev-project/decoding-bitcoin": {
+    "total_issue_events": 13,
+    "total_issue_comments": 29,
+    "avg_commenters_per_month": 1.71
+  },
+  "bitcoin-dev-project/rust-for-bitcoiners": {
+    "total_issue_events": 2,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 1.33
+  },
+  "bitcoin-dev-project/sim-ln": {
+    "total_issue_events": 172,
+    "total_issue_comments": 633,
+    "avg_commenters_per_month": 4.3
+  },
+  "bitcoin-dev-project/warnet": {
+    "total_issue_events": 482,
+    "total_issue_comments": 1632,
+    "avg_commenters_per_month": 4.83
+  },
+  "bitcoin-dot-org/Bitcoin-Wallet": {
+    "total_issue_events": 11,
+    "total_issue_comments": 99,
+    "avg_commenters_per_month": 1.33
+  },
+  "bitcoin-dot-org/Bitcoin.org": {
+    "total_issue_events": 928,
+    "total_issue_comments": 1249,
+    "avg_commenters_per_month": 8.29
+  },
+  "bitcoin-dot-org/BitcoinWalletMobile": {
+    "total_issue_events": 12,
+    "total_issue_comments": 26,
+    "avg_commenters_per_month": 1.67
+  },
+  "bitcoin-dot-org/developer.bitcoin.org": {
+    "total_issue_events": 147,
+    "total_issue_comments": 82,
+    "avg_commenters_per_month": 0.88
+  },
+  "bitcoin-hivemind/hivemind": {
+    "total_issue_events": 85,
+    "total_issue_comments": 80,
+    "avg_commenters_per_month": 1.5
+  },
+  "bitcoin-model/bitcoin_model": {
+    "total_issue_events": 8,
+    "total_issue_comments": 4,
+    "avg_commenters_per_month": 0.57
+  },
+  "bitcoin-only/bitcoin-only": {
+    "total_issue_events": 943,
+    "total_issue_comments": 1019,
+    "avg_commenters_per_month": 3.45
+  },
+  "bitcoin-portal/bitcoincom-solidity-swap": {
+    "total_issue_events": 67,
+    "total_issue_comments": 74,
+    "avg_commenters_per_month": 1.67
+  },
+  "bitcoin-s/bitcoin-s": {
+    "total_issue_events": 2374,
+    "total_issue_comments": 2592,
+    "avg_commenters_per_month": 3.52
+  },
+  "bitcoin-studio/Bitcoin-Programming-with-BitcoinJS": {
+    "total_issue_events": 3,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.5
+  },
+  "bitcoin-sv/bitcoin-sv": {
+    "total_issue_events": 469,
+    "total_issue_comments": 1117,
+    "avg_commenters_per_month": 5.55
+  },
+  "bitcoin-teleport/teleport-transactions": {
+    "total_issue_events": 24,
+    "total_issue_comments": 156,
+    "avg_commenters_per_month": 2.1
+  },
+  "bitcoin-wallet/bitcoin-wallet": {
+    "total_issue_events": 907,
+    "total_issue_comments": 1806,
+    "avg_commenters_per_month": 6.22
+  },
+  "bitcoin/bips": {
+    "total_issue_events": 0,
+    "total_issue_comments": 7409,
+    "avg_commenters_per_month": 19.7
+  },
+  "bitcoin/bitcoin": {
+    "total_issue_events": 14003,
+    "total_issue_comments": 190650,
+    "avg_commenters_per_month": 117.09
+  },
+  "bitcoinbook/bitcoinbook": {
+    "total_issue_events": 577,
+    "total_issue_comments": 863,
+    "avg_commenters_per_month": 2.96
+  },
+  "bitcoincashorg/bitcoincash.org": {
+    "total_issue_events": 221,
+    "total_issue_comments": 681,
+    "avg_commenters_per_month": 5.41
+  },
+  "bitcoinclassic/bitcoinclassic": {
+    "total_issue_events": 237,
+    "total_issue_comments": 1449,
+    "avg_commenters_per_month": 12.63
+  },
+  "bitcoindevkit/bdk": {
+    "total_issue_events": 1379,
+    "total_issue_comments": 6231,
+    "avg_commenters_per_month": 14.82
+  },
+  "bitcoindevkit/bdk-cli": {
+    "total_issue_events": 121,
+    "total_issue_comments": 554,
+    "avg_commenters_per_month": 3.33
+  },
+  "bitcoindevkit/bdk-ffi": {
+    "total_issue_events": 515,
+    "total_issue_comments": 1383,
+    "avg_commenters_per_month": 4.69
+  },
+  "bitcoindevkit/bdk-kyoto": {
+    "total_issue_events": 5,
+    "total_issue_comments": 37,
+    "avg_commenters_per_month": 2.12
+  },
+  "bitcoindevkit/bdk-old": {
+    "total_issue_events": 4,
+    "total_issue_comments": 6,
+    "avg_commenters_per_month": 1.0
+  },
+  "bitcoindevkit/bdk-swift": {
+    "total_issue_events": 26,
+    "total_issue_comments": 47,
+    "avg_commenters_per_month": 1.75
+  },
+  "bitcoindevkit/bdk_wallet": {
+    "total_issue_events": 280,
+    "total_issue_comments": 412,
+    "avg_commenters_per_month": 8.57
+  },
+  "bitcoindevkit/bitcoin-ffi": {
+    "total_issue_events": 8,
+    "total_issue_comments": 105,
+    "avg_commenters_per_month": 2.55
+  },
+  "bitcoindevkit/bitcoindevkit.org": {
+    "total_issue_events": 84,
+    "total_issue_comments": 418,
+    "avg_commenters_per_month": 3.03
+  },
+  "bitcoindevkit/book-of-bdk": {
+    "total_issue_events": 41,
+    "total_issue_comments": 172,
+    "avg_commenters_per_month": 2.39
+  },
+  "bitcoindevkit/rust-electrum-client": {
+    "total_issue_events": 89,
+    "total_issue_comments": 263,
+    "avg_commenters_per_month": 2.51
+  },
+  "bitcoindevkit/rust-hwi": {
+    "total_issue_events": 43,
+    "total_issue_comments": 174,
+    "avg_commenters_per_month": 2.22
+  },
+  "bitcoinfibre/bitcoinfibre": {
+    "total_issue_events": 24,
+    "total_issue_comments": 56,
+    "avg_commenters_per_month": 1.4
+  },
+  "bitcoinj/bitcoinj": {
+    "total_issue_events": 1095,
+    "total_issue_comments": 8192,
+    "avg_commenters_per_month": 7.65
+  },
+  "bitcoinjs/bip39": {
+    "total_issue_events": 171,
+    "total_issue_comments": 495,
+    "avg_commenters_per_month": 2.49
+  },
+  "bitcoinjs/bitcoinjs-lib": {
+    "total_issue_events": 2337,
+    "total_issue_comments": 7588,
+    "avg_commenters_per_month": 11.31
+  },
+  "bitcoinjs/fast-dat-parser": {
+    "total_issue_events": 19,
+    "total_issue_comments": 49,
+    "avg_commenters_per_month": 2.09
+  },
+  "bitcoinjs/indexd": {
+    "total_issue_events": 59,
+    "total_issue_comments": 172,
+    "avg_commenters_per_month": 1.95
+  },
+  "bitcoinjs/regtest-server": {
+    "total_issue_events": 13,
+    "total_issue_comments": 25,
+    "avg_commenters_per_month": 1.33
+  },
+  "bitcoinknots/bitcoin": {
+    "total_issue_events": 173,
+    "total_issue_comments": 548,
+    "avg_commenters_per_month": 2.92
+  },
+  "bitcoinops/bitcoinops.github.io": {
+    "total_issue_events": 227,
+    "total_issue_comments": 3610,
+    "avg_commenters_per_month": 7.64
+  },
+  "bitcoinops/scaling-book": {
+    "total_issue_events": 24,
+    "total_issue_comments": 48,
+    "avg_commenters_per_month": 1.93
+  },
+  "bitcoinops/taproot-workshop": {
+    "total_issue_events": 108,
+    "total_issue_comments": 348,
+    "avg_commenters_per_month": 2.32
+  },
+  "bitcoinppl/cove": {
+    "total_issue_events": 433,
+    "total_issue_comments": 100,
+    "avg_commenters_per_month": 1.72
+  },
+  "bitcoinsearch/chat-btc": {
+    "total_issue_events": 65,
+    "total_issue_comments": 77,
+    "avg_commenters_per_month": 2.0
+  },
+  "bitcointranscripts/bitcointranscripts": {
+    "total_issue_events": 51,
+    "total_issue_comments": 720,
+    "avg_commenters_per_month": 4.04
+  },
+  "bitcoinxt/bitcoinxt": {
+    "total_issue_events": 208,
+    "total_issue_comments": 1483,
+    "avg_commenters_per_month": 4.96
+  },
+  "bitmaintech/Antminer_firmware": {
+    "total_issue_events": 4,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.25
+  },
+  "bitmaintech/S9_makepackage": {
+    "total_issue_events": 1,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "bitmaintech/bmminer-mix": {
+    "total_issue_events": 13,
+    "total_issue_comments": 22,
+    "avg_commenters_per_month": 1.0
+  },
+  "bitmaintech/cgminer": {
+    "total_issue_events": 0,
+    "total_issue_comments": 9,
+    "avg_commenters_per_month": 1.5
+  },
+  "bitpay/bitcoind-rpc": {
+    "total_issue_events": 24,
+    "total_issue_comments": 110,
+    "avg_commenters_per_month": 1.77
+  },
+  "bitpay/bitcore": {
+    "total_issue_events": 1930,
+    "total_issue_comments": 3933,
+    "avg_commenters_per_month": 8.67
+  },
+  "bitpay/bitcore-lib": {
+    "total_issue_events": 198,
+    "total_issue_comments": 620,
+    "avg_commenters_per_month": 6.29
+  },
+  "bitpay/bitcore-node": {
+    "total_issue_events": 560,
+    "total_issue_comments": 1121,
+    "avg_commenters_per_month": 4.43
+  },
+  "bitpay/bitcore-wallet-service": {
+    "total_issue_events": 429,
+    "total_issue_comments": 1300,
+    "avg_commenters_per_month": 6.58
+  },
+  "bitpay/copay": {
+    "total_issue_events": 8560,
+    "total_issue_comments": 16586,
+    "avg_commenters_per_month": 47.59
+  },
+  "bitpay/insight": {
+    "total_issue_events": 362,
+    "total_issue_comments": 558,
+    "avg_commenters_per_month": 5.02
+  },
+  "bitpay/insight-api": {
+    "total_issue_events": 386,
+    "total_issue_comments": 716,
+    "avg_commenters_per_month": 4.42
+  },
+  "bitpay/wallet": {
+    "total_issue_events": 186,
+    "total_issue_comments": 451,
+    "avg_commenters_per_month": 3.02
+  },
+  "blacksky-algorithms/rsky": {
+    "total_issue_events": 91,
+    "total_issue_comments": 215,
+    "avg_commenters_per_month": 2.73
+  },
+  "blinkbitcoin/blink-mobile": {
+    "total_issue_events": 75,
+    "total_issue_comments": 108,
+    "avg_commenters_per_month": 2.53
+  },
+  "blinkbitcoin/charts": {
+    "total_issue_events": 1,
+    "total_issue_comments": 9,
+    "avg_commenters_per_month": 1.5
+  },
+  "blockchain-etl/bitcoin-etl": {
+    "total_issue_events": 69,
+    "total_issue_comments": 155,
+    "avg_commenters_per_month": 1.78
+  },
+  "blockchain-etl/bitcoin-etl-airflow": {
+    "total_issue_events": 6,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 0.8
+  },
+  "blockchain/bitcoin-coinify-client": {
+    "total_issue_events": 2,
+    "total_issue_comments": 13,
+    "avg_commenters_per_month": 1.33
+  },
+  "blockchain/bitcoin-exchange-client": {
+    "total_issue_events": 2,
+    "total_issue_comments": 12,
+    "avg_commenters_per_month": 1.67
+  },
+  "blockchain/bitcoin-unocoin-client": {
+    "total_issue_events": 0,
+    "total_issue_comments": 9,
+    "avg_commenters_per_month": 2.0
+  },
+  "braiins/bmminer": {
+    "total_issue_events": 6,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "braiins/bos-plus-api": {
+    "total_issue_events": 13,
+    "total_issue_comments": 8,
+    "avg_commenters_per_month": 0.8
+  },
+  "braiins/braiins": {
+    "total_issue_events": 79,
+    "total_issue_comments": 129,
+    "avg_commenters_per_month": 2.06
+  },
+  "braiins/braiins-os": {
+    "total_issue_events": 63,
+    "total_issue_comments": 113,
+    "avg_commenters_per_month": 4.18
+  },
+  "breez/breez": {
+    "total_issue_events": 40,
+    "total_issue_comments": 148,
+    "avg_commenters_per_month": 1.97
+  },
+  "breez/breez-sdk-greenlight": {
+    "total_issue_events": 63,
+    "total_issue_comments": 192,
+    "avg_commenters_per_month": 4.13
+  },
+  "breez/breezmobile": {
+    "total_issue_events": 841,
+    "total_issue_comments": 1656,
+    "avg_commenters_per_month": 6.09
+  },
+  "brilliancebitcoin/nostrgram": {
+    "total_issue_events": 16,
+    "total_issue_comments": 11,
+    "avg_commenters_per_month": 1.0
+  },
+  "btc-room101/bitcoin-rnn": {
+    "total_issue_events": 4,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.33
+  },
+  "btc1/bitcoin": {
+    "total_issue_events": 164,
+    "total_issue_comments": 2257,
+    "avg_commenters_per_month": 45.0
+  },
+  "btcmachineordinals/ordinal-machinery": {
+    "total_issue_events": 1,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 2.0
+  },
+  "btcpayserver/BTCPayServer.Lightning": {
+    "total_issue_events": 50,
+    "total_issue_comments": 248,
+    "avg_commenters_per_month": 2.02
+  },
+  "btcpayserver/BTCPayServer.Vault": {
+    "total_issue_events": 105,
+    "total_issue_comments": 283,
+    "avg_commenters_per_month": 2.5
+  },
+  "btcpayserver/btcTransmuter": {
+    "total_issue_events": 135,
+    "total_issue_comments": 83,
+    "avg_commenters_per_month": 1.15
+  },
+  "btcpayserver/btcpayserver": {
+    "total_issue_events": 5067,
+    "total_issue_comments": 17484,
+    "avg_commenters_per_month": 25.38
+  },
+  "btcpayserver/btcpayserver-doc": {
+    "total_issue_events": 1049,
+    "total_issue_comments": 2295,
+    "avg_commenters_per_month": 5.68
+  },
+  "btcpayserver/btcpayserver-docker": {
+    "total_issue_events": 693,
+    "total_issue_comments": 2818,
+    "avg_commenters_per_month": 8.03
+  },
+  "btcpayserver/btcpayserver-infra": {
+    "total_issue_events": 7,
+    "total_issue_comments": 13,
+    "avg_commenters_per_month": 1.0
+  },
+  "btcsuite/btcd": {
+    "total_issue_events": 1174,
+    "total_issue_comments": 5923,
+    "avg_commenters_per_month": 11.49
+  },
+  "btcsuite/btcjson": {
+    "total_issue_events": 3,
+    "total_issue_comments": 20,
+    "avg_commenters_per_month": 2.5
+  },
+  "btcsuite/btcrpcclient": {
+    "total_issue_events": 67,
+    "total_issue_comments": 133,
+    "avg_commenters_per_month": 2.11
+  },
+  "btcsuite/btcutil": {
+    "total_issue_events": 88,
+    "total_issue_comments": 425,
+    "avg_commenters_per_month": 2.99
+  },
+  "btcsuite/btcwallet": {
+    "total_issue_events": 419,
+    "total_issue_comments": 1772,
+    "avg_commenters_per_month": 4.02
+  },
+  "btcsuite/btcwire": {
+    "total_issue_events": 0,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "buidl-bitcoin/buidl-python": {
+    "total_issue_events": 63,
+    "total_issue_comments": 243,
+    "avg_commenters_per_month": 1.74
+  },
+  "callebtc/python-nostr": {
+    "total_issue_events": 0,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "cameri/nostream": {
+    "total_issue_events": 120,
+    "total_issue_comments": 161,
+    "avg_commenters_per_month": 3.62
+  },
+  "cantonbecker/bitcoinpaperwallet": {
+    "total_issue_events": 19,
+    "total_issue_comments": 38,
+    "avg_commenters_per_month": 1.38
+  },
+  "casascius/Bitcoin-Address-Utility": {
+    "total_issue_events": 28,
+    "total_issue_comments": 89,
+    "avg_commenters_per_month": 1.79
+  },
+  "casey/runestone": {
+    "total_issue_events": 404,
+    "total_issue_comments": 441,
+    "avg_commenters_per_month": 12.0
+  },
+  "cashubtc/awesome-cashu": {
+    "total_issue_events": 2,
+    "total_issue_comments": 9,
+    "avg_commenters_per_month": 1.0
+  },
+  "cashubtc/cashu-feni": {
+    "total_issue_events": 6,
+    "total_issue_comments": 3,
+    "avg_commenters_per_month": 0.4
+  },
+  "cashubtc/cashu-ts": {
+    "total_issue_events": 255,
+    "total_issue_comments": 671,
+    "avg_commenters_per_month": 4.31
+  },
+  "cashubtc/cashu.me": {
+    "total_issue_events": 133,
+    "total_issue_comments": 290,
+    "avg_commenters_per_month": 3.66
+  },
+  "cashubtc/cdk": {
+    "total_issue_events": 526,
+    "total_issue_comments": 654,
+    "avg_commenters_per_month": 5.61
+  },
+  "cashubtc/eNuts": {
+    "total_issue_events": 301,
+    "total_issue_comments": 279,
+    "avg_commenters_per_month": 3.43
+  },
+  "cashubtc/npubcash-server": {
+    "total_issue_events": 11,
+    "total_issue_comments": 18,
+    "avg_commenters_per_month": 1.4
+  },
+  "cashubtc/nuts": {
+    "total_issue_events": 104,
+    "total_issue_comments": 559,
+    "avg_commenters_per_month": 5.51
+  },
+  "cashubtc/nutshell": {
+    "total_issue_events": 185,
+    "total_issue_comments": 384,
+    "avg_commenters_per_month": 4.81
+  },
+  "cazala/coin-hive-stratum": {
+    "total_issue_events": 275,
+    "total_issue_comments": 1121,
+    "avg_commenters_per_month": 8.0
+  },
+  "cdecker/lightning-integration": {
+    "total_issue_events": 43,
+    "total_issue_comments": 169,
+    "avg_commenters_per_month": 2.3
+  },
+  "cdhowie/Bitcoin-mining-proxy": {
+    "total_issue_events": 7,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "chaincodelabs/bitcoin-curriculum": {
+    "total_issue_events": 7,
+    "total_issue_comments": 19,
+    "avg_commenters_per_month": 1.15
+  },
+  "chaincodelabs/bitcoin-tx-tutorial": {
+    "total_issue_events": 16,
+    "total_issue_comments": 25,
+    "avg_commenters_per_month": 1.5
+  },
+  "chaincodelabs/bitcoinperf": {
+    "total_issue_events": 14,
+    "total_issue_comments": 28,
+    "avg_commenters_per_month": 0.91
+  },
+  "chaincodelabs/lightning-curriculum": {
+    "total_issue_events": 1,
+    "total_issue_comments": 9,
+    "avg_commenters_per_month": 1.5
+  },
+  "chaincodelabs/onboarding-to-bitcoin-core": {
+    "total_issue_events": 38,
+    "total_issue_comments": 115,
+    "avg_commenters_per_month": 1.61
+  },
+  "chainwayxyz/bitvm-zk-verifier": {
+    "total_issue_events": 3,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "chainwayxyz/citrea": {
+    "total_issue_events": 1532,
+    "total_issue_comments": 1030,
+    "avg_commenters_per_month": 5.3
+  },
+  "chainwayxyz/clementine": {
+    "total_issue_events": 598,
+    "total_issue_comments": 401,
+    "avg_commenters_per_month": 3.48
+  },
+  "chaors/Bitcoin_read": {
+    "total_issue_events": 3,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.33
+  },
+  "chibui191/bitcoin_volatility_forecasting": {
+    "total_issue_events": 8,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 0.5
+  },
+  "chill117/lnurl-node": {
+    "total_issue_events": 75,
+    "total_issue_comments": 68,
+    "avg_commenters_per_month": 1.19
+  },
+  "chill117/passport-lnurl-auth": {
+    "total_issue_events": 6,
+    "total_issue_comments": 16,
+    "avg_commenters_per_month": 1.29
+  },
+  "ckolivas/cgminer": {
+    "total_issue_events": 0,
+    "total_issue_comments": 90,
+    "avg_commenters_per_month": 1.92
+  },
+  "cloutjs/ByeBye-Bitcoin": {
+    "total_issue_events": 30,
+    "total_issue_comments": 70,
+    "avg_commenters_per_month": 1.69
+  },
+  "codler/Bitcoin-phpMiner": {
+    "total_issue_events": 4,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.5
+  },
+  "coinkite/coinkite-tap-proto": {
+    "total_issue_events": 10,
+    "total_issue_comments": 53,
+    "avg_commenters_per_month": 1.67
+  },
+  "cojapacze/bitcointaxer": {
+    "total_issue_events": 5,
+    "total_issue_comments": 4,
+    "avg_commenters_per_month": 0.5
+  },
+  "cooganb/bitcoin-whitepaper-exercises": {
+    "total_issue_events": 0,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 1.0
+  },
+  "cosmoio/bitcoin_key_recovery_attack": {
+    "total_issue_events": 4,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 1.0
+  },
+  "cryptean/bitcoinlib": {
+    "total_issue_events": 37,
+    "total_issue_comments": 68,
+    "avg_commenters_per_month": 1.21
+  },
+  "cryptoapi/Bitcoin-Payments-Woocommerce": {
+    "total_issue_events": 18,
+    "total_issue_comments": 10,
+    "avg_commenters_per_month": 0.89
+  },
+  "cryptocoinjs/secp256k1-node": {
+    "total_issue_events": 173,
+    "total_issue_comments": 562,
+    "avg_commenters_per_month": 2.37
+  },
+  "csunny/py-bitcoin": {
+    "total_issue_events": 9,
+    "total_issue_comments": 4,
+    "avg_commenters_per_month": 0.8
+  },
+  "cygnet3/rust-silentpayments": {
+    "total_issue_events": 63,
+    "total_issue_comments": 78,
+    "avg_commenters_per_month": 2.2
+  },
+  "daedalus/bitcoin-recover-privkey": {
+    "total_issue_events": 22,
+    "total_issue_comments": 13,
+    "avg_commenters_per_month": 0.61
+  },
+  "damus-io/damus": {
+    "total_issue_events": 3459,
+    "total_issue_comments": 8206,
+    "avg_commenters_per_month": 14.38
+  },
+  "dan-v/bruteforce-bitcoin-brainwallet": {
+    "total_issue_events": 13,
+    "total_issue_comments": 4,
+    "avg_commenters_per_month": 0.5
+  },
+  "darosior/python-bip380": {
+    "total_issue_events": 10,
+    "total_issue_comments": 35,
+    "avg_commenters_per_month": 1.22
+  },
+  "decred/cgminer": {
+    "total_issue_events": 38,
+    "total_issue_comments": 146,
+    "avg_commenters_per_month": 3.38
+  },
+  "dennisreimann/bitcoindevlist.com": {
+    "total_issue_events": 24,
+    "total_issue_comments": 106,
+    "avg_commenters_per_month": 2.12
+  },
+  "dennisreimann/btcpayserver-lnbank": {
+    "total_issue_events": 2,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "denpamusic/laravel-bitcoinrpc": {
+    "total_issue_events": 27,
+    "total_issue_comments": 62,
+    "avg_commenters_per_month": 1.61
+  },
+  "denpamusic/php-bitcoinrpc": {
+    "total_issue_events": 33,
+    "total_issue_comments": 69,
+    "avg_commenters_per_month": 1.35
+  },
+  "dev-ryan-ren/ecc_secp256k1_crypto": {
+    "total_issue_events": 1,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 1.25
+  },
+  "dexX7/java-libbitcoinconsensus": {
+    "total_issue_events": 14,
+    "total_issue_comments": 44,
+    "avg_commenters_per_month": 1.67
+  },
+  "dgarage/NDLC": {
+    "total_issue_events": 3,
+    "total_issue_comments": 9,
+    "avg_commenters_per_month": 1.5
+  },
+  "digitalbitbox/2FA-app": {
+    "total_issue_events": 4,
+    "total_issue_comments": 17,
+    "avg_commenters_per_month": 1.71
+  },
+  "digitalbitbox/bitbox02-firmware": {
+    "total_issue_events": 158,
+    "total_issue_comments": 1595,
+    "avg_commenters_per_month": 4.5
+  },
+  "discreetlogcontracts/dlcspecs": {
+    "total_issue_events": 115,
+    "total_issue_comments": 568,
+    "avg_commenters_per_month": 3.83
+  },
+  "diybitcoinhardware/embit": {
+    "total_issue_events": 44,
+    "total_issue_comments": 115,
+    "avg_commenters_per_month": 1.74
+  },
+  "diybitcoinhardware/secp256k1-embedded": {
+    "total_issue_events": 7,
+    "total_issue_comments": 14,
+    "avg_commenters_per_month": 1.6
+  },
+  "drivechain-project/mainchain": {
+    "total_issue_events": 14,
+    "total_issue_comments": 7,
+    "avg_commenters_per_month": 1.0
+  },
+  "dryphp/bitcoin.php": {
+    "total_issue_events": 5,
+    "total_issue_comments": 10,
+    "avg_commenters_per_month": 1.0
+  },
+  "dukedaily/go-bitcoin-demo": {
+    "total_issue_events": 1,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.67
+  },
+  "ebellocchia/bip_utils": {
+    "total_issue_events": 214,
+    "total_issue_comments": 419,
+    "avg_commenters_per_month": 2.41
+  },
+  "eklitzke/utxodump": {
+    "total_issue_events": 2,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "erechorse/nostr-cpn-girl": {
+    "total_issue_events": 1,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.5
+  },
+  "erskingardner/listr": {
+    "total_issue_events": 119,
+    "total_issue_comments": 59,
+    "avg_commenters_per_month": 1.0
+  },
+  "erskingardner/nostr-how": {
+    "total_issue_events": 52,
+    "total_issue_comments": 114,
+    "avg_commenters_per_month": 2.13
+  },
+  "etotheipi/BitcoinArmory": {
+    "total_issue_events": 123,
+    "total_issue_comments": 429,
+    "avg_commenters_per_month": 2.42
+  },
+  "eveybcd/BitcoinDiamond": {
+    "total_issue_events": 113,
+    "total_issue_comments": 182,
+    "avg_commenters_per_month": 2.47
+  },
+  "f321x/cashu-escrow-kit": {
+    "total_issue_events": 28,
+    "total_issue_comments": 19,
+    "avg_commenters_per_month": 1.5
+  },
+  "fedimint/fedimint": {
+    "total_issue_events": 3236,
+    "total_issue_comments": 10658,
+    "avg_commenters_per_month": 14.71
+  },
+  "fiatjaf/go-lnurl": {
+    "total_issue_events": 14,
+    "total_issue_comments": 27,
+    "avg_commenters_per_month": 1.55
+  },
+  "fiatjaf/nostr-gateway": {
+    "total_issue_events": 16,
+    "total_issue_comments": 25,
+    "avg_commenters_per_month": 1.83
+  },
+  "fiatjaf/nostr-relay-registry": {
+    "total_issue_events": 5,
+    "total_issue_comments": 35,
+    "avg_commenters_per_month": 2.22
+  },
+  "fiatjaf/window.nostr.js": {
+    "total_issue_events": 14,
+    "total_issue_comments": 30,
+    "avg_commenters_per_month": 1.62
+  },
+  "fjahr/debugging_bitcoin": {
+    "total_issue_events": 1,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "flashbots/mempool-dumpster": {
+    "total_issue_events": 18,
+    "total_issue_comments": 36,
+    "avg_commenters_per_month": 1.6
+  },
+  "fort-nix/nix-bitcoin": {
+    "total_issue_events": 360,
+    "total_issue_comments": 1836,
+    "avg_commenters_per_month": 5.27
+  },
+  "fortesp/bitcoinaddress": {
+    "total_issue_events": 25,
+    "total_issue_comments": 35,
+    "avg_commenters_per_month": 1.05
+  },
+  "fpgaminer/Open-Source-FPGA-Bitcoin-Miner": {
+    "total_issue_events": 0,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "freewil/bitcoin-testnet-box": {
+    "total_issue_events": 61,
+    "total_issue_comments": 46,
+    "avg_commenters_per_month": 0.72
+  },
+  "freewil/node-bitcoin": {
+    "total_issue_events": 23,
+    "total_issue_comments": 41,
+    "avg_commenters_per_month": 1.59
+  },
+  "friedger/awesome-stacks-chain": {
+    "total_issue_events": 1,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.67
+  },
+  "friedger/stacks-swaps": {
+    "total_issue_events": 21,
+    "total_issue_comments": 14,
+    "avg_commenters_per_month": 0.89
+  },
+  "fungible-systems/micro-stacks": {
+    "total_issue_events": 35,
+    "total_issue_comments": 79,
+    "avg_commenters_per_month": 2.33
+  },
+  "futurepaul/nostr-rs": {
+    "total_issue_events": 5,
+    "total_issue_comments": 6,
+    "avg_commenters_per_month": 1.0
+  },
+  "garyyu/rust-secp256k1-zkp": {
+    "total_issue_events": 5,
+    "total_issue_comments": 4,
+    "avg_commenters_per_month": 1.0
+  },
+  "gavinandresen/bitcointools": {
+    "total_issue_events": 0,
+    "total_issue_comments": 9,
+    "avg_commenters_per_month": 1.5
+  },
+  "geniusprodigy/bitcoin-convertmassivepvks": {
+    "total_issue_events": 3,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "geniusprodigy/bitcoin-convertpvk": {
+    "total_issue_events": 1,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "getAlby/awesome-nwc": {
+    "total_issue_events": 97,
+    "total_issue_comments": 31,
+    "avg_commenters_per_month": 1.19
+  },
+  "getAlby/bitcoin-connect": {
+    "total_issue_events": 263,
+    "total_issue_comments": 480,
+    "avg_commenters_per_month": 3.32
+  },
+  "getAlby/go": {
+    "total_issue_events": 192,
+    "total_issue_comments": 217,
+    "avg_commenters_per_month": 3.6
+  },
+  "getAlby/hub": {
+    "total_issue_events": 1176,
+    "total_issue_comments": 1448,
+    "avg_commenters_per_month": 10.88
+  },
+  "getAlby/js-lightning-tools": {
+    "total_issue_events": 28,
+    "total_issue_comments": 60,
+    "avg_commenters_per_month": 1.76
+  },
+  "getAlby/js-sdk": {
+    "total_issue_events": 66,
+    "total_issue_comments": 259,
+    "avg_commenters_per_month": 2.55
+  },
+  "getAlby/lightning-browser-extension": {
+    "total_issue_events": 1544,
+    "total_issue_comments": 5590,
+    "avg_commenters_per_month": 13.02
+  },
+  "getAlby/lndhub.go": {
+    "total_issue_events": 245,
+    "total_issue_comments": 331,
+    "avg_commenters_per_month": 3.35
+  },
+  "getAlby/nostr-wallet-connect": {
+    "total_issue_events": 143,
+    "total_issue_comments": 222,
+    "avg_commenters_per_month": 4.06
+  },
+  "glozow/bitcoin-notes": {
+    "total_issue_events": 6,
+    "total_issue_comments": 14,
+    "avg_commenters_per_month": 1.0
+  },
+  "goatpig/BitcoinArmory": {
+    "total_issue_events": 688,
+    "total_issue_comments": 2133,
+    "avg_commenters_per_month": 4.9
+  },
+  "goldshtn/LiveStacks": {
+    "total_issue_events": 15,
+    "total_issue_comments": 9,
+    "avg_commenters_per_month": 1.17
+  },
+  "greenaddress/abcore": {
+    "total_issue_events": 105,
+    "total_issue_comments": 174,
+    "avg_commenters_per_month": 1.84
+  },
+  "grondilu/bitcoin-bash-tools": {
+    "total_issue_events": 28,
+    "total_issue_comments": 26,
+    "avg_commenters_per_month": 0.9
+  },
+  "guerrerocarlos/bitcoin-miner": {
+    "total_issue_events": 5,
+    "total_issue_comments": 7,
+    "avg_commenters_per_month": 0.86
+  },
+  "haltingstate/secp256k1-go": {
+    "total_issue_events": 6,
+    "total_issue_comments": 13,
+    "avg_commenters_per_month": 1.5
+  },
+  "haorendashu/nostrmo": {
+    "total_issue_events": 22,
+    "total_issue_comments": 29,
+    "avg_commenters_per_month": 1.19
+  },
+  "haorendashu/nostrmo_faq": {
+    "total_issue_events": 7,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 0.8
+  },
+  "hardcpp/P2PoolExtendedFrontEnd": {
+    "total_issue_events": 3,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.33
+  },
+  "haskoin/haskoin-core": {
+    "total_issue_events": 44,
+    "total_issue_comments": 128,
+    "avg_commenters_per_month": 1.68
+  },
+  "headzoo/bitcoin-wallet-api": {
+    "total_issue_events": 1,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "heguro/nostr-following-list-util": {
+    "total_issue_events": 3,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 1.0
+  },
+  "hhanh00/secp256k1-cl": {
+    "total_issue_events": 11,
+    "total_issue_comments": 6,
+    "avg_commenters_per_month": 0.67
+  },
+  "hirosystems/bitcoin-indexer": {
+    "total_issue_events": 82,
+    "total_issue_comments": 37,
+    "avg_commenters_per_month": 1.78
+  },
+  "hirosystems/ordinals-api": {
+    "total_issue_events": 282,
+    "total_issue_comments": 682,
+    "avg_commenters_per_month": 6.19
+  },
+  "hirosystems/ordinals-explorer": {
+    "total_issue_events": 60,
+    "total_issue_comments": 53,
+    "avg_commenters_per_month": 2.0
+  },
+  "hirosystems/stacks-blockchain-api": {
+    "total_issue_events": 976,
+    "total_issue_comments": 2808,
+    "avg_commenters_per_month": 9.73
+  },
+  "hirosystems/stacks-subnets": {
+    "total_issue_events": 113,
+    "total_issue_comments": 210,
+    "avg_commenters_per_month": 3.93
+  },
+  "hirosystems/stacks.js": {
+    "total_issue_events": 322,
+    "total_issue_comments": 566,
+    "avg_commenters_per_month": 5.26
+  },
+  "holgern/pynostr": {
+    "total_issue_events": 21,
+    "total_issue_comments": 25,
+    "avg_commenters_per_month": 1.23
+  },
+  "horizontalsystems/bitcoin-kit-android": {
+    "total_issue_events": 302,
+    "total_issue_comments": 99,
+    "avg_commenters_per_month": 1.21
+  },
+  "horizontalsystems/bitcoin-kit-ios": {
+    "total_issue_events": 359,
+    "total_issue_comments": 102,
+    "avg_commenters_per_month": 1.94
+  },
+  "hzrd149/nostrudel": {
+    "total_issue_events": 350,
+    "total_issue_comments": 395,
+    "avg_commenters_per_month": 3.8
+  },
+  "iancoleman/bip39": {
+    "total_issue_events": 610,
+    "total_issue_comments": 1370,
+    "avg_commenters_per_month": 5.62
+  },
+  "iancoleman/jsbip39": {
+    "total_issue_events": 11,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 0.44
+  },
+  "iceland2k14/secp256k1": {
+    "total_issue_events": 113,
+    "total_issue_comments": 122,
+    "avg_commenters_per_month": 1.45
+  },
+  "igorbarinov/awesome-bitcoin": {
+    "total_issue_events": 24,
+    "total_issue_comments": 90,
+    "avg_commenters_per_month": 1.48
+  },
+  "imfly/bitcoin-on-nodejs": {
+    "total_issue_events": 18,
+    "total_issue_comments": 13,
+    "avg_commenters_per_month": 0.67
+  },
+  "imksoo/nostr-global-viewer": {
+    "total_issue_events": 2,
+    "total_issue_comments": 8,
+    "avg_commenters_per_month": 1.25
+  },
+  "in3rsha/bitcoin-chainstate-parser": {
+    "total_issue_events": 0,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 2.0
+  },
+  "in3rsha/bitcoin-to-neo4j": {
+    "total_issue_events": 41,
+    "total_issue_comments": 53,
+    "avg_commenters_per_month": 1.09
+  },
+  "in3rsha/bitcoin-utxo-dump": {
+    "total_issue_events": 69,
+    "total_issue_comments": 113,
+    "avg_commenters_per_month": 1.53
+  },
+  "inoutcode/bitcoin_book_2nd": {
+    "total_issue_events": 7,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.2
+  },
+  "iron-fish/block-explorer": {
+    "total_issue_events": 22,
+    "total_issue_comments": 51,
+    "avg_commenters_per_month": 2.07
+  },
+  "itsneski/lightning-jet": {
+    "total_issue_events": 166,
+    "total_issue_comments": 143,
+    "avg_commenters_per_month": 1.3
+  },
+  "ivy-lang/ivy-bitcoin": {
+    "total_issue_events": 20,
+    "total_issue_comments": 39,
+    "avg_commenters_per_month": 1.38
+  },
+  "jamaljsr/polar": {
+    "total_issue_events": 354,
+    "total_issue_comments": 1486,
+    "avg_commenters_per_month": 4.58
+  },
+  "jamesmagoo/nostr-writer": {
+    "total_issue_events": 3,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.5
+  },
+  "janoside/lightning-rpc-explorer": {
+    "total_issue_events": 4,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.4
+  },
+  "jashmenn/bitcoin-reading-list": {
+    "total_issue_events": 13,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.67
+  },
+  "jb55/awesome-core-lightning": {
+    "total_issue_events": 0,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 1.0
+  },
+  "jb55/nostr-js": {
+    "total_issue_events": 3,
+    "total_issue_comments": 10,
+    "avg_commenters_per_month": 1.25
+  },
+  "jb55/nostril": {
+    "total_issue_events": 21,
+    "total_issue_comments": 69,
+    "avg_commenters_per_month": 1.7
+  },
+  "jcnelson/clarity-bitcoin": {
+    "total_issue_events": 4,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 1.0
+  },
+  "jeasonstudio/runestone": {
+    "total_issue_events": 1,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 1.5
+  },
+  "jeffthibault/python-nostr": {
+    "total_issue_events": 87,
+    "total_issue_comments": 269,
+    "avg_commenters_per_month": 4.4
+  },
+  "jgarzik/python-bitcoinrpc": {
+    "total_issue_events": 59,
+    "total_issue_comments": 108,
+    "avg_commenters_per_month": 1.35
+  },
+  "jhoenicke/mempool": {
+    "total_issue_events": 117,
+    "total_issue_comments": 147,
+    "avg_commenters_per_month": 2.0
+  },
+  "jiftechnify/nostr-fetch": {
+    "total_issue_events": 82,
+    "total_issue_comments": 33,
+    "avg_commenters_per_month": 0.93
+  },
+  "jigglycrumb/nostr-address-provider": {
+    "total_issue_events": 1,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "jimmysong/programmingbitcoin": {
+    "total_issue_events": 216,
+    "total_issue_comments": 299,
+    "avg_commenters_per_month": 1.83
+  },
+  "jlopp/bitcoin-core-config-generator": {
+    "total_issue_events": 79,
+    "total_issue_comments": 45,
+    "avg_commenters_per_month": 0.71
+  },
+  "jlopp/physical-bitcoin-attacks": {
+    "total_issue_events": 114,
+    "total_issue_comments": 106,
+    "avg_commenters_per_month": 1.12
+  },
+  "joaodealmeida/woocommerce-gateway-lightning": {
+    "total_issue_events": 14,
+    "total_issue_comments": 39,
+    "avg_commenters_per_month": 1.78
+  },
+  "johannbarbie/BitcoindClient4J": {
+    "total_issue_events": 1,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.5
+  },
+  "johncantrell97/bip39-solver-cpu": {
+    "total_issue_events": 2,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "johncantrell97/bip39-solver-gpu": {
+    "total_issue_events": 17,
+    "total_issue_comments": 44,
+    "avg_commenters_per_month": 1.29
+  },
+  "johncantrell97/bip39-solver-gpu2": {
+    "total_issue_events": 7,
+    "total_issue_comments": 13,
+    "avg_commenters_per_month": 0.71
+  },
+  "jonatack/bitcoin-development": {
+    "total_issue_events": 10,
+    "total_issue_comments": 40,
+    "avg_commenters_per_month": 1.75
+  },
+  "jtoomim/p2pool": {
+    "total_issue_events": 56,
+    "total_issue_comments": 328,
+    "avg_commenters_per_month": 2.14
+  },
+  "justinmoon/bitcoincorps": {
+    "total_issue_events": 2,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.33
+  },
+  "kallerosenbaum/grokkingbitcoin": {
+    "total_issue_events": 22,
+    "total_issue_comments": 60,
+    "avg_commenters_per_month": 1.17
+  },
+  "kallewoof/btcdeb": {
+    "total_issue_events": 58,
+    "total_issue_comments": 108,
+    "avg_commenters_per_month": 2.17
+  },
+  "kangasbros/django-bitcoin": {
+    "total_issue_events": 2,
+    "total_issue_comments": 3,
+    "avg_commenters_per_month": 0.6
+  },
+  "karask/bitcoin-textbook": {
+    "total_issue_events": 2,
+    "total_issue_comments": 3,
+    "avg_commenters_per_month": 1.0
+  },
+  "karask/python-bitcoin-utils": {
+    "total_issue_events": 118,
+    "total_issue_comments": 312,
+    "avg_commenters_per_month": 1.96
+  },
+  "keeshux/bitcoinspv": {
+    "total_issue_events": 4,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 1.5
+  },
+  "kigawas/python-bip44": {
+    "total_issue_events": 10,
+    "total_issue_comments": 16,
+    "avg_commenters_per_month": 1.0
+  },
+  "kornrunner/php-secp256k1": {
+    "total_issue_events": 19,
+    "total_issue_comments": 16,
+    "avg_commenters_per_month": 0.62
+  },
+  "koteitan/nostr-post-checker": {
+    "total_issue_events": 0,
+    "total_issue_comments": 3,
+    "avg_commenters_per_month": 1.0
+  },
+  "kudelskisecurity/ecdsa-dump-bitcoin": {
+    "total_issue_events": 9,
+    "total_issue_comments": 9,
+    "avg_commenters_per_month": 0.86
+  },
+  "kylemanna/docker-bitcoind": {
+    "total_issue_events": 98,
+    "total_issue_comments": 253,
+    "avg_commenters_per_month": 1.79
+  },
+  "ladimolnar/BitcoinBlockchain": {
+    "total_issue_events": 3,
+    "total_issue_comments": 8,
+    "avg_commenters_per_month": 1.0
+  },
+  "ladimolnar/BitcoinDatabaseGenerator": {
+    "total_issue_events": 36,
+    "total_issue_comments": 62,
+    "avg_commenters_per_month": 1.42
+  },
+  "lapulpeta/Nostrid": {
+    "total_issue_events": 122,
+    "total_issue_comments": 59,
+    "avg_commenters_per_month": 2.6
+  },
+  "lian/bitcoin-ruby": {
+    "total_issue_events": 174,
+    "total_issue_comments": 283,
+    "avg_commenters_per_month": 1.86
+  },
+  "libbitcoin/libbitcoin": {
+    "total_issue_events": 362,
+    "total_issue_comments": 1204,
+    "avg_commenters_per_month": 4.71
+  },
+  "libbitcoin/libbitcoin-blockchain": {
+    "total_issue_events": 121,
+    "total_issue_comments": 382,
+    "avg_commenters_per_month": 1.69
+  },
+  "libbitcoin/libbitcoin-client": {
+    "total_issue_events": 62,
+    "total_issue_comments": 312,
+    "avg_commenters_per_month": 1.8
+  },
+  "libbitcoin/libbitcoin-consensus": {
+    "total_issue_events": 10,
+    "total_issue_comments": 88,
+    "avg_commenters_per_month": 1.08
+  },
+  "libbitcoin/libbitcoin-database": {
+    "total_issue_events": 91,
+    "total_issue_comments": 619,
+    "avg_commenters_per_month": 1.53
+  },
+  "libbitcoin/libbitcoin-explorer": {
+    "total_issue_events": 440,
+    "total_issue_comments": 1357,
+    "avg_commenters_per_month": 3.32
+  },
+  "libbitcoin/libbitcoin-network": {
+    "total_issue_events": 90,
+    "total_issue_comments": 488,
+    "avg_commenters_per_month": 1.53
+  },
+  "libbitcoin/libbitcoin-node": {
+    "total_issue_events": 169,
+    "total_issue_comments": 871,
+    "avg_commenters_per_month": 1.63
+  },
+  "libbitcoin/libbitcoin-protocol": {
+    "total_issue_events": 50,
+    "total_issue_comments": 120,
+    "avg_commenters_per_month": 1.36
+  },
+  "libbitcoin/libbitcoin-server": {
+    "total_issue_events": 367,
+    "total_issue_comments": 1217,
+    "avg_commenters_per_month": 2.76
+  },
+  "libbitcoin/libbitcoin-system": {
+    "total_issue_events": 325,
+    "total_issue_comments": 818,
+    "avg_commenters_per_month": 2.77
+  },
+  "lightning-login/lnurl-auth-demo": {
+    "total_issue_events": 1,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "lightning-power-users/node-launcher": {
+    "total_issue_events": 403,
+    "total_issue_comments": 654,
+    "avg_commenters_per_month": 4.96
+  },
+  "lightning/bolts": {
+    "total_issue_events": 218,
+    "total_issue_comments": 1610,
+    "avg_commenters_per_month": 10.15
+  },
+  "lightningd/plugins": {
+    "total_issue_events": 281,
+    "total_issue_comments": 1455,
+    "avg_commenters_per_month": 4.54
+  },
+  "lightningdevkit/ldk-garbagecollected": {
+    "total_issue_events": 73,
+    "total_issue_comments": 65,
+    "avg_commenters_per_month": 1.03
+  },
+  "lightningdevkit/ldk-node": {
+    "total_issue_events": 97,
+    "total_issue_comments": 750,
+    "avg_commenters_per_month": 5.6
+  },
+  "lightningdevkit/ldk-sample": {
+    "total_issue_events": 32,
+    "total_issue_comments": 131,
+    "avg_commenters_per_month": 2.0
+  },
+  "lightningdevkit/ldk-server": {
+    "total_issue_events": 19,
+    "total_issue_comments": 113,
+    "avg_commenters_per_month": 2.5
+  },
+  "lightningdevkit/ldk-swift": {
+    "total_issue_events": 51,
+    "total_issue_comments": 62,
+    "avg_commenters_per_month": 1.73
+  },
+  "lightningdevkit/lightning-liquidity": {
+    "total_issue_events": 16,
+    "total_issue_comments": 30,
+    "avg_commenters_per_month": 1.5
+  },
+  "lightningdevkit/lightningdevkit.org": {
+    "total_issue_events": 116,
+    "total_issue_comments": 189,
+    "avg_commenters_per_month": 1.85
+  },
+  "lightningdevkit/rapid-gossip-sync-server": {
+    "total_issue_events": 10,
+    "total_issue_comments": 43,
+    "avg_commenters_per_month": 1.5
+  },
+  "lightningdevkit/rust-lightning": {
+    "total_issue_events": 432,
+    "total_issue_comments": 6804,
+    "avg_commenters_per_month": 16.72
+  },
+  "lightningdevkit/vss-server": {
+    "total_issue_events": 10,
+    "total_issue_comments": 117,
+    "avg_commenters_per_month": 2.1
+  },
+  "lightningequipment/circuitbreaker": {
+    "total_issue_events": 56,
+    "total_issue_comments": 143,
+    "avg_commenters_per_month": 2.09
+  },
+  "lightninglabs/L402": {
+    "total_issue_events": 1,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.5
+  },
+  "lightninglabs/LangChainBitcoin": {
+    "total_issue_events": 4,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.67
+  },
+  "lightninglabs/aperture": {
+    "total_issue_events": 33,
+    "total_issue_comments": 333,
+    "avg_commenters_per_month": 2.13
+  },
+  "lightninglabs/chantools": {
+    "total_issue_events": 62,
+    "total_issue_comments": 245,
+    "avg_commenters_per_month": 3.1
+  },
+  "lightninglabs/faraday": {
+    "total_issue_events": 70,
+    "total_issue_comments": 170,
+    "avg_commenters_per_month": 2.05
+  },
+  "lightninglabs/lightning-app": {
+    "total_issue_events": 1402,
+    "total_issue_comments": 1695,
+    "avg_commenters_per_month": 11.22
+  },
+  "lightninglabs/lightning-node-connect": {
+    "total_issue_events": 23,
+    "total_issue_comments": 242,
+    "avg_commenters_per_month": 2.53
+  },
+  "lightninglabs/lightning-terminal": {
+    "total_issue_events": 700,
+    "total_issue_comments": 2611,
+    "avg_commenters_per_month": 9.93
+  },
+  "lightninglabs/lndclient": {
+    "total_issue_events": 23,
+    "total_issue_comments": 185,
+    "avg_commenters_per_month": 2.0
+  },
+  "lightninglabs/lndmon": {
+    "total_issue_events": 58,
+    "total_issue_comments": 162,
+    "avg_commenters_per_month": 2.05
+  },
+  "lightninglabs/loop": {
+    "total_issue_events": 488,
+    "total_issue_comments": 1784,
+    "avg_commenters_per_month": 6.33
+  },
+  "lightninglabs/neutrino": {
+    "total_issue_events": 146,
+    "total_issue_comments": 947,
+    "avg_commenters_per_month": 3.55
+  },
+  "lightninglabs/pool": {
+    "total_issue_events": 241,
+    "total_issue_comments": 724,
+    "avg_commenters_per_month": 4.43
+  },
+  "lightninglabs/taproot-assets": {
+    "total_issue_events": 1331,
+    "total_issue_comments": 3682,
+    "avg_commenters_per_month": 11.15
+  },
+  "lightningnetwork/lightning-onion": {
+    "total_issue_events": 11,
+    "total_issue_comments": 112,
+    "avg_commenters_per_month": 1.44
+  },
+  "lightningnetwork/lnd": {
+    "total_issue_events": 7851,
+    "total_issue_comments": 40458,
+    "avg_commenters_per_month": 50.9
+  },
+  "lightningnetwork/paper": {
+    "total_issue_events": 4,
+    "total_issue_comments": 12,
+    "avg_commenters_per_month": 1.11
+  },
+  "lithander/Minimal-Bitcoin-Miner": {
+    "total_issue_events": 4,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 0.83
+  },
+  "lnbits/lnbits": {
+    "total_issue_events": 1568,
+    "total_issue_comments": 4090,
+    "avg_commenters_per_month": 14.22
+  },
+  "lnbits/nostrmarket": {
+    "total_issue_events": 94,
+    "total_issue_comments": 117,
+    "avg_commenters_per_month": 2.05
+  },
+  "lnurl/awesome-lnurl": {
+    "total_issue_events": 28,
+    "total_issue_comments": 23,
+    "avg_commenters_per_month": 1.12
+  },
+  "lnurl/luds": {
+    "total_issue_events": 37,
+    "total_issue_comments": 334,
+    "avg_commenters_per_month": 4.78
+  },
+  "luke-jr/bfgminer": {
+    "total_issue_events": 309,
+    "total_issue_comments": 803,
+    "avg_commenters_per_month": 2.98
+  },
+  "luminexord/runes": {
+    "total_issue_events": 3,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.5
+  },
+  "lyndsysimon/bip32utils": {
+    "total_issue_events": 0,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 1.0
+  },
+  "m2dsupsdlclass/lectures-labs": {
+    "total_issue_events": 8,
+    "total_issue_comments": 15,
+    "avg_commenters_per_month": 0.87
+  },
+  "ma261065/DotNetStratumMiner": {
+    "total_issue_events": 4,
+    "total_issue_comments": 3,
+    "avg_commenters_per_month": 0.6
+  },
+  "madskristensen/Editorsk": {
+    "total_issue_events": 12,
+    "total_issue_comments": 6,
+    "avg_commenters_per_month": 0.6
+  },
+  "matja/bitcoin-tool": {
+    "total_issue_events": 52,
+    "total_issue_comments": 155,
+    "avg_commenters_per_month": 1.43
+  },
+  "matter-labs/block-explorer": {
+    "total_issue_events": 126,
+    "total_issue_comments": 201,
+    "avg_commenters_per_month": 3.4
+  },
+  "mattn/nostr-webhook": {
+    "total_issue_events": 7,
+    "total_issue_comments": 10,
+    "avg_commenters_per_month": 1.0
+  },
+  "maxme/bitcoin-arbitrage": {
+    "total_issue_events": 32,
+    "total_issue_comments": 38,
+    "avg_commenters_per_month": 1.11
+  },
+  "me-foundation/runestone-lib": {
+    "total_issue_events": 8,
+    "total_issue_comments": 12,
+    "avg_commenters_per_month": 1.75
+  },
+  "meesvw/bitcoin-bruteforce": {
+    "total_issue_events": 41,
+    "total_issue_comments": 82,
+    "avg_commenters_per_month": 2.0
+  },
+  "mempool/electrs": {
+    "total_issue_events": 43,
+    "total_issue_comments": 161,
+    "avg_commenters_per_month": 2.07
+  },
+  "mempool/mempool": {
+    "total_issue_events": 2679,
+    "total_issue_comments": 3956,
+    "avg_commenters_per_month": 11.33
+  },
+  "mempool/mempool-cli": {
+    "total_issue_events": 7,
+    "total_issue_comments": 24,
+    "avg_commenters_per_month": 1.44
+  },
+  "mempool/mempool-sitemap": {
+    "total_issue_events": 18,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 1.0
+  },
+  "mempool/mempool.js": {
+    "total_issue_events": 143,
+    "total_issue_comments": 110,
+    "avg_commenters_per_month": 1.78
+  },
+  "mempool/mwck-js": {
+    "total_issue_events": 0,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "mempoolco/spruned": {
+    "total_issue_events": 7,
+    "total_issue_comments": 9,
+    "avg_commenters_per_month": 1.0
+  },
+  "michael1011/lightningtip": {
+    "total_issue_events": 22,
+    "total_issue_comments": 71,
+    "avg_commenters_per_month": 3.6
+  },
+  "micro-bitcoin/uBitcoin": {
+    "total_issue_events": 41,
+    "total_issue_comments": 84,
+    "avg_commenters_per_month": 1.39
+  },
+  "mikedeshazer/CreateSendBitcoin": {
+    "total_issue_events": 1,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "mikedilger/nostr-types": {
+    "total_issue_events": 12,
+    "total_issue_comments": 43,
+    "avg_commenters_per_month": 1.56
+  },
+  "mimonelu/klearsky": {
+    "total_issue_events": 56,
+    "total_issue_comments": 24,
+    "avg_commenters_per_month": 1.07
+  },
+  "mingfunwong/all-bitcoin-private-key": {
+    "total_issue_events": 30,
+    "total_issue_comments": 11,
+    "avg_commenters_per_month": 0.43
+  },
+  "mit-dci/6.892-public": {
+    "total_issue_events": 2,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "mit-dci/CryptoCurrency": {
+    "total_issue_events": 0,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "mit-dci/CryptoKernel": {
+    "total_issue_events": 29,
+    "total_issue_comments": 55,
+    "avg_commenters_per_month": 1.53
+  },
+  "mit-dci/lit": {
+    "total_issue_events": 248,
+    "total_issue_comments": 855,
+    "avg_commenters_per_month": 2.67
+  },
+  "mit-dci/mas.s62": {
+    "total_issue_events": 29,
+    "total_issue_comments": 30,
+    "avg_commenters_per_month": 2.71
+  },
+  "mit-dci/opencbdc-tx": {
+    "total_issue_events": 146,
+    "total_issue_comments": 615,
+    "avg_commenters_per_month": 4.03
+  },
+  "mit-dci/opencx": {
+    "total_issue_events": 28,
+    "total_issue_comments": 13,
+    "avg_commenters_per_month": 1.6
+  },
+  "mit-dci/rustreexo": {
+    "total_issue_events": 14,
+    "total_issue_comments": 117,
+    "avg_commenters_per_month": 1.64
+  },
+  "mit-dci/utreexo": {
+    "total_issue_events": 166,
+    "total_issue_comments": 537,
+    "avg_commenters_per_month": 2.92
+  },
+  "mobnetic/BitcoinChecker": {
+    "total_issue_events": 885,
+    "total_issue_comments": 925,
+    "avg_commenters_per_month": 5.67
+  },
+  "monty888/nostrpy": {
+    "total_issue_events": 3,
+    "total_issue_comments": 3,
+    "avg_commenters_per_month": 2.0
+  },
+  "murakmii/nostr-mux": {
+    "total_issue_events": 2,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "muun/apollo": {
+    "total_issue_events": 116,
+    "total_issue_comments": 238,
+    "avg_commenters_per_month": 2.67
+  },
+  "muun/falcon": {
+    "total_issue_events": 39,
+    "total_issue_comments": 61,
+    "avg_commenters_per_month": 1.38
+  },
+  "muun/recovery": {
+    "total_issue_events": 65,
+    "total_issue_comments": 88,
+    "avg_commenters_per_month": 1.51
+  },
+  "nanotube/supybot-bitcoin-marketmonitor": {
+    "total_issue_events": 5,
+    "total_issue_comments": 26,
+    "avg_commenters_per_month": 1.17
+  },
+  "nbd-wtf/go-nostr": {
+    "total_issue_events": 96,
+    "total_issue_comments": 285,
+    "avg_commenters_per_month": 2.46
+  },
+  "nbd-wtf/js-lnurl": {
+    "total_issue_events": 6,
+    "total_issue_comments": 4,
+    "avg_commenters_per_month": 0.75
+  },
+  "nbd-wtf/nostr-tools": {
+    "total_issue_events": 286,
+    "total_issue_comments": 858,
+    "avg_commenters_per_month": 6.9
+  },
+  "nbd-wtf/obw": {
+    "total_issue_events": 54,
+    "total_issue_comments": 161,
+    "avg_commenters_per_month": 5.88
+  },
+  "nbd-wtf/poncho": {
+    "total_issue_events": 4,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 1.0
+  },
+  "nbd-wtf/satdress": {
+    "total_issue_events": 19,
+    "total_issue_comments": 34,
+    "avg_commenters_per_month": 1.88
+  },
+  "nbd-wtf/trustedcoin": {
+    "total_issue_events": 23,
+    "total_issue_comments": 56,
+    "avg_commenters_per_month": 1.73
+  },
+  "nbobtc/bitcoind-php": {
+    "total_issue_events": 20,
+    "total_issue_comments": 27,
+    "avg_commenters_per_month": 0.94
+  },
+  "neogeno/shango-lightning-wallet": {
+    "total_issue_events": 138,
+    "total_issue_comments": 160,
+    "avg_commenters_per_month": 2.56
+  },
+  "nerdaxe/cgminer-nerdaxe": {
+    "total_issue_events": 6,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 1.0
+  },
+  "neu-fi/awesome-ordinals": {
+    "total_issue_events": 7,
+    "total_issue_comments": 15,
+    "avg_commenters_per_month": 2.2
+  },
+  "node-lightning/node-lightning": {
+    "total_issue_events": 67,
+    "total_issue_comments": 18,
+    "avg_commenters_per_month": 1.25
+  },
+  "nomic-io/nomic": {
+    "total_issue_events": 104,
+    "total_issue_comments": 101,
+    "avg_commenters_per_month": 1.35
+  },
+  "nopara73/HBitcoin": {
+    "total_issue_events": 37,
+    "total_issue_comments": 27,
+    "avg_commenters_per_month": 1.2
+  },
+  "nopara73/HiddenBitcoin": {
+    "total_issue_events": 11,
+    "total_issue_comments": 3,
+    "avg_commenters_per_month": 0.33
+  },
+  "nostr-dev-kit/ndk": {
+    "total_issue_events": 240,
+    "total_issue_comments": 436,
+    "avg_commenters_per_month": 5.47
+  },
+  "nostr-jp/awesome-nostr-japan": {
+    "total_issue_events": 0,
+    "total_issue_comments": 64,
+    "avg_commenters_per_month": 1.73
+  },
+  "nostr-jp/learn-nostr-by-crafting": {
+    "total_issue_events": 3,
+    "total_issue_comments": 3,
+    "avg_commenters_per_month": 1.5
+  },
+  "nostr-jp/nips-ja": {
+    "total_issue_events": 21,
+    "total_issue_comments": 120,
+    "avg_commenters_per_month": 2.67
+  },
+  "nostr-protocol/nips": {
+    "total_issue_events": 660,
+    "total_issue_comments": 16120,
+    "avg_commenters_per_month": 49.08
+  },
+  "nostr-protocol/nostr": {
+    "total_issue_events": 134,
+    "total_issue_comments": 410,
+    "avg_commenters_per_month": 5.9
+  },
+  "nostr-wine/filter-relay": {
+    "total_issue_events": 0,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "nostrability/nostrability": {
+    "total_issue_events": 341,
+    "total_issue_comments": 1789,
+    "avg_commenters_per_month": 13.39
+  },
+  "nostrapps/cashu": {
+    "total_issue_events": 12,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.2
+  },
+  "nostrband/noauth": {
+    "total_issue_events": 217,
+    "total_issue_comments": 156,
+    "avg_commenters_per_month": 1.53
+  },
+  "nostrband/nostr-login": {
+    "total_issue_events": 98,
+    "total_issue_comments": 79,
+    "avg_commenters_per_month": 1.76
+  },
+  "nostrband/nostr-universe": {
+    "total_issue_events": 8,
+    "total_issue_comments": 11,
+    "avg_commenters_per_month": 1.14
+  },
+  "nostrbuild/nostr.build": {
+    "total_issue_events": 27,
+    "total_issue_comments": 36,
+    "avg_commenters_per_month": 1.38
+  },
+  "nunchuk-io/libnunchuk": {
+    "total_issue_events": 37,
+    "total_issue_comments": 72,
+    "avg_commenters_per_month": 1.72
+  },
+  "nunchuk-io/nunchuk-desktop": {
+    "total_issue_events": 141,
+    "total_issue_comments": 490,
+    "avg_commenters_per_month": 2.96
+  },
+  "oleganza/CoreBitcoin": {
+    "total_issue_events": 84,
+    "total_issue_comments": 228,
+    "avg_commenters_per_month": 1.84
+  },
+  "onemorebsmith/kaspa-stratum-bridge": {
+    "total_issue_events": 81,
+    "total_issue_comments": 169,
+    "avg_commenters_per_month": 1.87
+  },
+  "openoms/bitcoin-tutorials": {
+    "total_issue_events": 48,
+    "total_issue_comments": 136,
+    "avg_commenters_per_month": 1.41
+  },
+  "openoms/lightning-node-management": {
+    "total_issue_events": 17,
+    "total_issue_comments": 115,
+    "avg_commenters_per_month": 1.87
+  },
+  "ordinals-wallet/ordinals-collections": {
+    "total_issue_events": 305,
+    "total_issue_comments": 1398,
+    "avg_commenters_per_month": 20.35
+  },
+  "ordinals-wallet/rune": {
+    "total_issue_events": 1,
+    "total_issue_comments": 7,
+    "avg_commenters_per_month": 1.5
+  },
+  "ordinals/ord": {
+    "total_issue_events": 1849,
+    "total_issue_comments": 4615,
+    "avg_commenters_per_month": 32.25
+  },
+  "ordinalsbot/ordinalsbot-node": {
+    "total_issue_events": 46,
+    "total_issue_comments": 19,
+    "avg_commenters_per_month": 1.0
+  },
+  "ostyjs/nostr-hooks": {
+    "total_issue_events": 11,
+    "total_issue_comments": 19,
+    "avg_commenters_per_month": 1.29
+  },
+  "p2pderivatives/rust-dlc": {
+    "total_issue_events": 61,
+    "total_issue_comments": 263,
+    "avg_commenters_per_month": 2.44
+  },
+  "p2pool/p2pool": {
+    "total_issue_events": 313,
+    "total_issue_comments": 519,
+    "avg_commenters_per_month": 3.67
+  },
+  "p4u/stratum-relay": {
+    "total_issue_events": 9,
+    "total_issue_comments": 22,
+    "avg_commenters_per_month": 1.22
+  },
+  "paritytech/parity-bitcoin": {
+    "total_issue_events": 93,
+    "total_issue_comments": 304,
+    "avg_commenters_per_month": 3.3
+  },
+  "paulmillr/micro-eth-signer": {
+    "total_issue_events": 47,
+    "total_issue_comments": 65,
+    "avg_commenters_per_month": 1.23
+  },
+  "paulmillr/micro-key-producer": {
+    "total_issue_events": 15,
+    "total_issue_comments": 26,
+    "avg_commenters_per_month": 1.57
+  },
+  "paulmillr/micro-ordinals": {
+    "total_issue_events": 3,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.67
+  },
+  "paulmillr/micro-password-generator": {
+    "total_issue_events": 2,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "paulmillr/noble-bls12-381": {
+    "total_issue_events": 75,
+    "total_issue_comments": 120,
+    "avg_commenters_per_month": 1.48
+  },
+  "paulmillr/noble-ciphers": {
+    "total_issue_events": 69,
+    "total_issue_comments": 132,
+    "avg_commenters_per_month": 1.81
+  },
+  "paulmillr/noble-curves": {
+    "total_issue_events": 254,
+    "total_issue_comments": 482,
+    "avg_commenters_per_month": 3.59
+  },
+  "paulmillr/noble-ed25519": {
+    "total_issue_events": 119,
+    "total_issue_comments": 283,
+    "avg_commenters_per_month": 2.23
+  },
+  "paulmillr/noble-hashes": {
+    "total_issue_events": 116,
+    "total_issue_comments": 364,
+    "avg_commenters_per_month": 2.61
+  },
+  "paulmillr/noble-post-quantum": {
+    "total_issue_events": 41,
+    "total_issue_comments": 57,
+    "avg_commenters_per_month": 1.75
+  },
+  "paulmillr/noble-secp256k1": {
+    "total_issue_events": 143,
+    "total_issue_comments": 375,
+    "avg_commenters_per_month": 2.5
+  },
+  "paulmillr/qr": {
+    "total_issue_events": 25,
+    "total_issue_comments": 38,
+    "avg_commenters_per_month": 1.5
+  },
+  "paulmillr/scure-base": {
+    "total_issue_events": 34,
+    "total_issue_comments": 106,
+    "avg_commenters_per_month": 1.84
+  },
+  "paulmillr/scure-bip32": {
+    "total_issue_events": 27,
+    "total_issue_comments": 46,
+    "avg_commenters_per_month": 1.32
+  },
+  "paulmillr/scure-bip39": {
+    "total_issue_events": 20,
+    "total_issue_comments": 29,
+    "avg_commenters_per_month": 1.38
+  },
+  "paulmillr/scure-btc-signer": {
+    "total_issue_events": 114,
+    "total_issue_comments": 189,
+    "avg_commenters_per_month": 2.35
+  },
+  "payjoin/ohttp-relay": {
+    "total_issue_events": 21,
+    "total_issue_comments": 40,
+    "avg_commenters_per_month": 1.29
+  },
+  "payjoin/rust-payjoin": {
+    "total_issue_events": 581,
+    "total_issue_comments": 2034,
+    "avg_commenters_per_month": 6.03
+  },
+  "peakshift/bitcoin-ux": {
+    "total_issue_events": 11,
+    "total_issue_comments": 37,
+    "avg_commenters_per_month": 1.31
+  },
+  "penpenpng/rx-nostr": {
+    "total_issue_events": 125,
+    "total_issue_comments": 28,
+    "avg_commenters_per_month": 0.58
+  },
+  "petertodd/python-bitcoinlib": {
+    "total_issue_events": 182,
+    "total_issue_comments": 592,
+    "avg_commenters_per_month": 2.59
+  },
+  "philipperemy/deep-learning-bitcoin": {
+    "total_issue_events": 26,
+    "total_issue_comments": 36,
+    "avg_commenters_per_month": 1.4
+  },
+  "philipperemy/my-first-bitcoin-miner": {
+    "total_issue_events": 3,
+    "total_issue_comments": 4,
+    "avg_commenters_per_month": 1.0
+  },
+  "philsong/bitcoin-broker": {
+    "total_issue_events": 10,
+    "total_issue_comments": 19,
+    "avg_commenters_per_month": 1.62
+  },
+  "phlippe/uvadlc_notebooks": {
+    "total_issue_events": 152,
+    "total_issue_comments": 209,
+    "avg_commenters_per_month": 1.9
+  },
+  "phrutis/BIP39": {
+    "total_issue_events": 14,
+    "total_issue_comments": 69,
+    "avg_commenters_per_month": 2.86
+  },
+  "pocesar/node-stratum": {
+    "total_issue_events": 19,
+    "total_issue_comments": 44,
+    "avg_commenters_per_month": 1.46
+  },
+  "poolgold/z-nomp-bitcoin-gold": {
+    "total_issue_events": 35,
+    "total_issue_comments": 93,
+    "avg_commenters_per_month": 4.0
+  },
+  "prettymuchbryce/hellobitcoin": {
+    "total_issue_events": 2,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "primal100/pybitcointools": {
+    "total_issue_events": 74,
+    "total_issue_comments": 117,
+    "avg_commenters_per_month": 1.67
+  },
+  "progranism/Bitcoin-JavaScript-Miner": {
+    "total_issue_events": 5,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.33
+  },
+  "progranism/Open-Source-FPGA-Bitcoin-Miner": {
+    "total_issue_events": 28,
+    "total_issue_comments": 49,
+    "avg_commenters_per_month": 0.84
+  },
+  "psq/stacks-open-oracle": {
+    "total_issue_events": 1,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "pythonlessons/RL-Bitcoin-trading-bot": {
+    "total_issue_events": 30,
+    "total_issue_comments": 54,
+    "avg_commenters_per_month": 1.79
+  },
+  "quentintaranpino/nostrcheck-server": {
+    "total_issue_events": 30,
+    "total_issue_comments": 53,
+    "avg_commenters_per_month": 2.0
+  },
+  "rajarshimaitra/rust-nostr": {
+    "total_issue_events": 5,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.2
+  },
+  "rdugan/kaspa-stratum-bridge": {
+    "total_issue_events": 0,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "reneaaron/lightning-widget": {
+    "total_issue_events": 8,
+    "total_issue_comments": 9,
+    "avg_commenters_per_month": 0.89
+  },
+  "renepickhardt/The-Lightning-Network-Book": {
+    "total_issue_events": 11,
+    "total_issue_comments": 34,
+    "avg_commenters_per_month": 2.6
+  },
+  "richardkiss/pycoin": {
+    "total_issue_events": 345,
+    "total_issue_comments": 807,
+    "avg_commenters_per_month": 2.97
+  },
+  "rnostr/rnostr": {
+    "total_issue_events": 17,
+    "total_issue_comments": 49,
+    "avg_commenters_per_month": 1.5
+  },
+  "robertwb/bitcoin-taxes": {
+    "total_issue_events": 14,
+    "total_issue_comments": 22,
+    "avg_commenters_per_month": 1.09
+  },
+  "rsksmart/RSKIPs": {
+    "total_issue_events": 83,
+    "total_issue_comments": 76,
+    "avg_commenters_per_month": 1.34
+  },
+  "rsksmart/mock-web3-provider": {
+    "total_issue_events": 12,
+    "total_issue_comments": 10,
+    "avg_commenters_per_month": 0.45
+  },
+  "rsksmart/powpeg-node": {
+    "total_issue_events": 6,
+    "total_issue_comments": 350,
+    "avg_commenters_per_month": 2.04
+  },
+  "rsksmart/rsk-explorer": {
+    "total_issue_events": 172,
+    "total_issue_comments": 45,
+    "avg_commenters_per_month": 0.67
+  },
+  "rsksmart/rsk-explorer-api": {
+    "total_issue_events": 79,
+    "total_issue_comments": 29,
+    "avg_commenters_per_month": 0.76
+  },
+  "rsksmart/rskj": {
+    "total_issue_events": 576,
+    "total_issue_comments": 4469,
+    "avg_commenters_per_month": 7.82
+  },
+  "ruimarinho/bitcoin-core": {
+    "total_issue_events": 123,
+    "total_issue_comments": 236,
+    "avg_commenters_per_month": 1.92
+  },
+  "ruimarinho/docker-bitcoin-core": {
+    "total_issue_events": 82,
+    "total_issue_comments": 217,
+    "avg_commenters_per_month": 2.11
+  },
+  "rust-bitcoin/bip324": {
+    "total_issue_events": 31,
+    "total_issue_comments": 95,
+    "avg_commenters_per_month": 2.0
+  },
+  "rust-bitcoin/bitcoind": {
+    "total_issue_events": 3,
+    "total_issue_comments": 40,
+    "avg_commenters_per_month": 2.4
+  },
+  "rust-bitcoin/murmel": {
+    "total_issue_events": 12,
+    "total_issue_comments": 53,
+    "avg_commenters_per_month": 1.76
+  },
+  "rust-bitcoin/rust-bech32": {
+    "total_issue_events": 86,
+    "total_issue_comments": 811,
+    "avg_commenters_per_month": 2.65
+  },
+  "rust-bitcoin/rust-bech32-bitcoin": {
+    "total_issue_events": 10,
+    "total_issue_comments": 36,
+    "avg_commenters_per_month": 1.56
+  },
+  "rust-bitcoin/rust-bip39": {
+    "total_issue_events": 41,
+    "total_issue_comments": 270,
+    "avg_commenters_per_month": 2.51
+  },
+  "rust-bitcoin/rust-bitcoin": {
+    "total_issue_events": 2318,
+    "total_issue_comments": 25934,
+    "avg_commenters_per_month": 15.71
+  },
+  "rust-bitcoin/rust-bitcoincore-rpc": {
+    "total_issue_events": 140,
+    "total_issue_comments": 865,
+    "avg_commenters_per_month": 4.08
+  },
+  "rust-bitcoin/rust-miniscript": {
+    "total_issue_events": 305,
+    "total_issue_comments": 2186,
+    "avg_commenters_per_month": 5.5
+  },
+  "rust-bitcoin/rust-secp256k1": {
+    "total_issue_events": 409,
+    "total_issue_comments": 3852,
+    "avg_commenters_per_month": 6.4
+  },
+  "rust-bitcoin/rust-wallet": {
+    "total_issue_events": 19,
+    "total_issue_comments": 58,
+    "avg_commenters_per_month": 1.39
+  },
+  "rust-nostr/nostr": {
+    "total_issue_events": 632,
+    "total_issue_comments": 1225,
+    "avg_commenters_per_month": 6.15
+  },
+  "rustyrussell/bitcoin-storage-guide": {
+    "total_issue_events": 8,
+    "total_issue_comments": 4,
+    "avg_commenters_per_month": 0.5
+  },
+  "s-nomp/node-stratum-pool": {
+    "total_issue_events": 18,
+    "total_issue_comments": 68,
+    "avg_commenters_per_month": 1.75
+  },
+  "sammy007/monero-stratum": {
+    "total_issue_events": 147,
+    "total_issue_comments": 263,
+    "avg_commenters_per_month": 5.5
+  },
+  "sandwichfarm/nostr-watch": {
+    "total_issue_events": 177,
+    "total_issue_comments": 45,
+    "avg_commenters_per_month": 0.94
+  },
+  "saracen/bitcoin-all-key-generator": {
+    "total_issue_events": 10,
+    "total_issue_comments": 10,
+    "avg_commenters_per_month": 0.86
+  },
+  "satoshi-anonymoto/whatsminer-api": {
+    "total_issue_events": 4,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "satoshilabs/slips": {
+    "total_issue_events": 230,
+    "total_issue_comments": 1664,
+    "avg_commenters_per_month": 5.74
+  },
+  "satoshin21/Anima": {
+    "total_issue_events": 17,
+    "total_issue_comments": 15,
+    "avg_commenters_per_month": 1.5
+  },
+  "satoshipay/docker-stellar-core": {
+    "total_issue_events": 22,
+    "total_issue_comments": 23,
+    "avg_commenters_per_month": 1.0
+  },
+  "satoshipay/docker-stellar-horizon": {
+    "total_issue_events": 13,
+    "total_issue_comments": 16,
+    "avg_commenters_per_month": 1.12
+  },
+  "satoshipay/solar": {
+    "total_issue_events": 657,
+    "total_issue_comments": 646,
+    "avg_commenters_per_month": 3.02
+  },
+  "saving-satoshi/saving-satoshi": {
+    "total_issue_events": 1110,
+    "total_issue_comments": 2595,
+    "avg_commenters_per_month": 6.21
+  },
+  "scaling-lightning/scaling-lightning": {
+    "total_issue_events": 29,
+    "total_issue_comments": 25,
+    "avg_commenters_per_month": 1.62
+  },
+  "scikit-learn-contrib/lightning": {
+    "total_issue_events": 80,
+    "total_issue_comments": 375,
+    "avg_commenters_per_month": 2.24
+  },
+  "scsibug/nostr-rs-relay": {
+    "total_issue_events": 238,
+    "total_issue_comments": 526,
+    "avg_commenters_per_month": 4.13
+  },
+  "sebicas/bitcoin-sniffer": {
+    "total_issue_events": 24,
+    "total_issue_comments": 26,
+    "avg_commenters_per_month": 1.08
+  },
+  "selfcustody/krux": {
+    "total_issue_events": 237,
+    "total_issue_comments": 1287,
+    "avg_commenters_per_month": 3.96
+  },
+  "sethforprivacy/p2pool-docker": {
+    "total_issue_events": 10,
+    "total_issue_comments": 31,
+    "avg_commenters_per_month": 1.3
+  },
+  "shamatar/secp256k1_ios": {
+    "total_issue_events": 1,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 1.0
+  },
+  "siminchen/bitcoinIDE": {
+    "total_issue_events": 20,
+    "total_issue_comments": 15,
+    "avg_commenters_per_month": 0.78
+  },
+  "sipa/bips": {
+    "total_issue_events": 68,
+    "total_issue_comments": 654,
+    "avg_commenters_per_month": 3.67
+  },
+  "sipa/bitcoin": {
+    "total_issue_events": 10,
+    "total_issue_comments": 267,
+    "avg_commenters_per_month": 3.21
+  },
+  "sipa/bitcoin-seeder": {
+    "total_issue_events": 50,
+    "total_issue_comments": 169,
+    "avg_commenters_per_month": 1.46
+  },
+  "sipa/bitcoin-stats": {
+    "total_issue_events": 8,
+    "total_issue_comments": 21,
+    "avg_commenters_per_month": 0.82
+  },
+  "sipa/miniscript": {
+    "total_issue_events": 58,
+    "total_issue_comments": 300,
+    "avg_commenters_per_month": 2.03
+  },
+  "siv2r/bip-frost-signing": {
+    "total_issue_events": 19,
+    "total_issue_comments": 37,
+    "avg_commenters_per_month": 1.38
+  },
+  "slaninas/nostr-bot": {
+    "total_issue_events": 6,
+    "total_issue_comments": 10,
+    "avg_commenters_per_month": 1.4
+  },
+  "slush0/stratum": {
+    "total_issue_events": 15,
+    "total_issue_comments": 28,
+    "avg_commenters_per_month": 1.1
+  },
+  "slush0/stratum-mining": {
+    "total_issue_events": 9,
+    "total_issue_comments": 18,
+    "avg_commenters_per_month": 1.08
+  },
+  "slush0/stratum-mining-proxy": {
+    "total_issue_events": 24,
+    "total_issue_comments": 49,
+    "avg_commenters_per_month": 1.0
+  },
+  "smartbitcoin/SmartMiner": {
+    "total_issue_events": 6,
+    "total_issue_comments": 4,
+    "avg_commenters_per_month": 0.67
+  },
+  "soroushjp/go-bitcoin-multisig": {
+    "total_issue_events": 3,
+    "total_issue_comments": 6,
+    "avg_commenters_per_month": 0.5
+  },
+  "sparrowwallet/sparrow": {
+    "total_issue_events": 2990,
+    "total_issue_comments": 6382,
+    "avg_commenters_per_month": 21.46
+  },
+  "spesmilo/electrum": {
+    "total_issue_events": 12401,
+    "total_issue_comments": 27425,
+    "avg_commenters_per_month": 42.78
+  },
+  "spesmilo/electrum-docs": {
+    "total_issue_events": 112,
+    "total_issue_comments": 164,
+    "avg_commenters_per_month": 1.72
+  },
+  "spesmilo/electrum-server": {
+    "total_issue_events": 104,
+    "total_issue_comments": 303,
+    "avg_commenters_per_month": 3.02
+  },
+  "spesmilo/electrum-web": {
+    "total_issue_events": 28,
+    "total_issue_comments": 46,
+    "avg_commenters_per_month": 1.35
+  },
+  "spesmilo/electrumx": {
+    "total_issue_events": 274,
+    "total_issue_comments": 717,
+    "avg_commenters_per_month": 4.11
+  },
+  "sr-gi/bitcoin_tools": {
+    "total_issue_events": 46,
+    "total_issue_comments": 160,
+    "avg_commenters_per_month": 1.89
+  },
+  "stacks-network/blockstack-android": {
+    "total_issue_events": 0,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 1.0
+  },
+  "stacks-network/blockstack-app-generator": {
+    "total_issue_events": 0,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "stacks-network/blockstack-explorer": {
+    "total_issue_events": 0,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "stacks-network/docs": {
+    "total_issue_events": 153,
+    "total_issue_comments": 315,
+    "avg_commenters_per_month": 2.73
+  },
+  "stacks-network/jsontokens-js": {
+    "total_issue_events": 0,
+    "total_issue_comments": 35,
+    "avg_commenters_per_month": 1.36
+  },
+  "stacks-network/key-encoder-js": {
+    "total_issue_events": 1,
+    "total_issue_comments": 13,
+    "avg_commenters_per_month": 0.8
+  },
+  "stacks-network/pybitcoin": {
+    "total_issue_events": 3,
+    "total_issue_comments": 4,
+    "avg_commenters_per_month": 1.0
+  },
+  "stacks-network/stacks": {
+    "total_issue_events": 8,
+    "total_issue_comments": 28,
+    "avg_commenters_per_month": 1.31
+  },
+  "stacks-network/stacks-blockchain-docker": {
+    "total_issue_events": 69,
+    "total_issue_comments": 155,
+    "avg_commenters_per_month": 1.85
+  },
+  "stacks-network/stacks-core": {
+    "total_issue_events": 1415,
+    "total_issue_comments": 8785,
+    "avg_commenters_per_month": 18.72
+  },
+  "stacksgov/grants-program": {
+    "total_issue_events": 1,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.5
+  },
+  "stacksgov/pm": {
+    "total_issue_events": 284,
+    "total_issue_comments": 647,
+    "avg_commenters_per_month": 4.82
+  },
+  "stacksgov/proposals": {
+    "total_issue_events": 12,
+    "total_issue_comments": 17,
+    "avg_commenters_per_month": 2.0
+  },
+  "stacksgov/residence-program": {
+    "total_issue_events": 115,
+    "total_issue_comments": 306,
+    "avg_commenters_per_month": 7.43
+  },
+  "stacksgov/resources": {
+    "total_issue_events": 14,
+    "total_issue_comments": 47,
+    "avg_commenters_per_month": 1.88
+  },
+  "stacksgov/sips": {
+    "total_issue_events": 72,
+    "total_issue_comments": 1042,
+    "avg_commenters_per_month": 7.48
+  },
+  "stevenroose/hal": {
+    "total_issue_events": 33,
+    "total_issue_comments": 61,
+    "avg_commenters_per_month": 1.0
+  },
+  "stratisproject/StratisBitcoinFullNode": {
+    "total_issue_events": 1899,
+    "total_issue_comments": 8581,
+    "avg_commenters_per_month": 11.04
+  },
+  "stratum-mining/stratum": {
+    "total_issue_events": 1405,
+    "total_issue_comments": 3444,
+    "avg_commenters_per_month": 6.34
+  },
+  "stratum-mining/sv2-spec": {
+    "total_issue_events": 78,
+    "total_issue_comments": 303,
+    "avg_commenters_per_month": 2.95
+  },
+  "studiokaiji/nostr-reversi": {
+    "total_issue_events": 3,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "studiokaiji/nostr-webhost": {
+    "total_issue_events": 38,
+    "total_issue_comments": 8,
+    "avg_commenters_per_month": 0.75
+  },
+  "superbitcoin/SuperBitcoin": {
+    "total_issue_events": 113,
+    "total_issue_comments": 120,
+    "avg_commenters_per_month": 3.37
+  },
+  "supertestnet/inscriptions-online": {
+    "total_issue_events": 8,
+    "total_issue_comments": 7,
+    "avg_commenters_per_month": 1.0
+  },
+  "susumuota/nostr-keyx": {
+    "total_issue_events": 1,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 1.0
+  },
+  "syvita/stacks-api-node": {
+    "total_issue_events": 6,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "t-bast/lightning-docs": {
+    "total_issue_events": 10,
+    "total_issue_comments": 36,
+    "avg_commenters_per_month": 2.2
+  },
+  "t4t5/nostr-react": {
+    "total_issue_events": 25,
+    "total_issue_comments": 48,
+    "avg_commenters_per_month": 1.75
+  },
+  "talonlab/python-bip38": {
+    "total_issue_events": 2,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "tcatm/bitcoin-js-remote": {
+    "total_issue_events": 2,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "theDavidCoen/LightningExchanges": {
+    "total_issue_events": 27,
+    "total_issue_comments": 161,
+    "avg_commenters_per_month": 2.13
+  },
+  "theQRL/block-explorer": {
+    "total_issue_events": 129,
+    "total_issue_comments": 144,
+    "avg_commenters_per_month": 1.43
+  },
+  "thinkmobiles/BitcoinJ-Wallet-Sample-Android": {
+    "total_issue_events": 4,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.33
+  },
+  "tianmingyun/MasterBitcoin2CN": {
+    "total_issue_events": 44,
+    "total_issue_comments": 39,
+    "avg_commenters_per_month": 0.96
+  },
+  "toxeus/go-secp256k1": {
+    "total_issue_events": 7,
+    "total_issue_comments": 12,
+    "avg_commenters_per_month": 1.0
+  },
+  "trezor/blockbook": {
+    "total_issue_events": 1010,
+    "total_issue_comments": 2320,
+    "avg_commenters_per_month": 7.24
+  },
+  "trezor/connect": {
+    "total_issue_events": 780,
+    "total_issue_comments": 2096,
+    "avg_commenters_per_month": 7.27
+  },
+  "trezor/data": {
+    "total_issue_events": 11,
+    "total_issue_comments": 98,
+    "avg_commenters_per_month": 2.26
+  },
+  "trezor/python-mnemonic": {
+    "total_issue_events": 92,
+    "total_issue_comments": 201,
+    "avg_commenters_per_month": 1.45
+  },
+  "trezor/python-shamir-mnemonic": {
+    "total_issue_events": 64,
+    "total_issue_comments": 131,
+    "avg_commenters_per_month": 2.15
+  },
+  "trezor/python-trezor": {
+    "total_issue_events": 267,
+    "total_issue_comments": 963,
+    "avg_commenters_per_month": 4.52
+  },
+  "trezor/trezor-android": {
+    "total_issue_events": 60,
+    "total_issue_comments": 141,
+    "avg_commenters_per_month": 1.9
+  },
+  "trezor/trezor-common": {
+    "total_issue_events": 85,
+    "total_issue_comments": 824,
+    "avg_commenters_per_month": 5.02
+  },
+  "trezor/trezor-core": {
+    "total_issue_events": 474,
+    "total_issue_comments": 1653,
+    "avg_commenters_per_month": 9.71
+  },
+  "trezor/trezor-crypto": {
+    "total_issue_events": 78,
+    "total_issue_comments": 410,
+    "avg_commenters_per_month": 2.93
+  },
+  "trezor/trezor-firmware": {
+    "total_issue_events": 4130,
+    "total_issue_comments": 13617,
+    "avg_commenters_per_month": 23.57
+  },
+  "trezor/trezor-hardware": {
+    "total_issue_events": 22,
+    "total_issue_comments": 20,
+    "avg_commenters_per_month": 0.92
+  },
+  "trezor/trezor-mcu": {
+    "total_issue_events": 401,
+    "total_issue_comments": 1542,
+    "avg_commenters_per_month": 6.54
+  },
+  "trezor/trezor-password-manager": {
+    "total_issue_events": 91,
+    "total_issue_comments": 127,
+    "avg_commenters_per_month": 2.0
+  },
+  "trezor/trezor-suite": {
+    "total_issue_events": 16304,
+    "total_issue_comments": 24383,
+    "avg_commenters_per_month": 32.16
+  },
+  "trezor/trezor-suite-guide": {
+    "total_issue_events": 5,
+    "total_issue_comments": 6,
+    "avg_commenters_per_month": 1.2
+  },
+  "trezor/trezor-user-env": {
+    "total_issue_events": 235,
+    "total_issue_comments": 660,
+    "avg_commenters_per_month": 2.73
+  },
+  "trezor/trezor.js": {
+    "total_issue_events": 71,
+    "total_issue_comments": 139,
+    "avg_commenters_per_month": 2.07
+  },
+  "trezor/trezord-go": {
+    "total_issue_events": 292,
+    "total_issue_comments": 906,
+    "avg_commenters_per_month": 3.78
+  },
+  "trottier/original-bitcoin": {
+    "total_issue_events": 28,
+    "total_issue_comments": 22,
+    "avg_commenters_per_month": 1.0
+  },
+  "tsileo/pycgminer": {
+    "total_issue_events": 6,
+    "total_issue_comments": 5,
+    "avg_commenters_per_month": 0.6
+  },
+  "tyler-smith/go-bip32": {
+    "total_issue_events": 13,
+    "total_issue_comments": 17,
+    "avg_commenters_per_month": 0.81
+  },
+  "tyler-smith/go-bip39": {
+    "total_issue_events": 41,
+    "total_issue_comments": 63,
+    "avg_commenters_per_month": 1.0
+  },
+  "unchained-capital/unchained-bitcoin": {
+    "total_issue_events": 12,
+    "total_issue_comments": 66,
+    "avg_commenters_per_month": 1.62
+  },
+  "vbuterin/pybitcointools": {
+    "total_issue_events": 119,
+    "total_issue_comments": 264,
+    "avg_commenters_per_month": 2.4
+  },
+  "vedmant/my-little-bitcoin": {
+    "total_issue_events": 3,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.67
+  },
+  "vertcoin-project/p2pool-vtc": {
+    "total_issue_events": 15,
+    "total_issue_comments": 28,
+    "avg_commenters_per_month": 1.64
+  },
+  "vishalxl/Nostr-Clients-Features-List": {
+    "total_issue_events": 3,
+    "total_issue_comments": 9,
+    "avg_commenters_per_month": 1.4
+  },
+  "vishalxl/nostr_console": {
+    "total_issue_events": 98,
+    "total_issue_comments": 160,
+    "avg_commenters_per_month": 2.86
+  },
+  "vitorpamplona/nostr-web-server": {
+    "total_issue_events": 2,
+    "total_issue_comments": 3,
+    "avg_commenters_per_month": 2.0
+  },
+  "vjkhere/BitcoinStealer-OnlyForEducationPurpose": {
+    "total_issue_events": 2,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "vulpemventures/marina": {
+    "total_issue_events": 339,
+    "total_issue_comments": 475,
+    "avg_commenters_per_month": 2.18
+  },
+  "vulpemventures/nigiri": {
+    "total_issue_events": 166,
+    "total_issue_comments": 273,
+    "avg_commenters_per_month": 1.94
+  },
+  "w3f/schnorrkel": {
+    "total_issue_events": 109,
+    "total_issue_comments": 301,
+    "avg_commenters_per_month": 2.0
+  },
+  "x25/coinhive-stratum-mining-proxy": {
+    "total_issue_events": 83,
+    "total_issue_comments": 150,
+    "avg_commenters_per_month": 4.78
+  },
+  "xiaolai/bitcoin-whitepaper-chinese-translation": {
+    "total_issue_events": 6,
+    "total_issue_comments": 6,
+    "avg_commenters_per_month": 1.2
+  },
+  "xiiiew/lightning-engine": {
+    "total_issue_events": 1,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.5
+  },
+  "yenom/BitcoinKit": {
+    "total_issue_events": 166,
+    "total_issue_comments": 225,
+    "avg_commenters_per_month": 2.02
+  },
+  "yinchengtsinghua/golang-bitcoin-chinese": {
+    "total_issue_events": 2,
+    "total_issue_comments": 0,
+    "avg_commenters_per_month": 0.0
+  },
+  "ymgve/bitcoin_fork_claimer": {
+    "total_issue_events": 110,
+    "total_issue_comments": 203,
+    "avg_commenters_per_month": 3.24
+  },
+  "z-classic/node-stratum-pool": {
+    "total_issue_events": 17,
+    "total_issue_comments": 49,
+    "avg_commenters_per_month": 1.72
+  },
+  "zacharski/pg2dm-python": {
+    "total_issue_events": 8,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 0.22
+  },
+  "zack-bitcoin/amoveo": {
+    "total_issue_events": 217,
+    "total_issue_comments": 467,
+    "avg_commenters_per_month": 3.18
+  },
+  "zack-bitcoin/amoveo-mining-pool": {
+    "total_issue_events": 18,
+    "total_issue_comments": 37,
+    "avg_commenters_per_month": 2.0
+  },
+  "zack-bitcoin/basiccoin": {
+    "total_issue_events": 6,
+    "total_issue_comments": 1,
+    "avg_commenters_per_month": 0.33
+  },
+  "zapstore/zapstore": {
+    "total_issue_events": 474,
+    "total_issue_comments": 629,
+    "avg_commenters_per_month": 3.62
+  },
+  "zapstore/zapstore-cli": {
+    "total_issue_events": 91,
+    "total_issue_comments": 110,
+    "avg_commenters_per_month": 1.5
+  },
+  "zkSNACKs/WalletWasabi": {
+    "total_issue_events": 7629,
+    "total_issue_comments": 31413,
+    "avg_commenters_per_month": 29.14
+  },
+  "zkSNACKs/WasabiDesign": {
+    "total_issue_events": 22,
+    "total_issue_comments": 66,
+    "avg_commenters_per_month": 2.64
+  },
+  "zkSNACKs/WasabiResearchExperience": {
+    "total_issue_events": 0,
+    "total_issue_comments": 3,
+    "avg_commenters_per_month": 3.0
+  },
+  "zkSNACKs/zIPs": {
+    "total_issue_events": 5,
+    "total_issue_comments": 25,
+    "avg_commenters_per_month": 2.14
+  },
+  "zone117x/node-stratum-pool": {
+    "total_issue_events": 82,
+    "total_issue_comments": 218,
+    "avg_commenters_per_month": 1.7
+  },
+  "zquestz/bitcoincash": {
+    "total_issue_events": 82,
+    "total_issue_comments": 189,
+    "avg_commenters_per_month": 1.56
+  },
+  "zw/bitcoin-gh-meta": {
+    "total_issue_events": 0,
+    "total_issue_comments": 2,
+    "avg_commenters_per_month": 2.0
+  }
+}

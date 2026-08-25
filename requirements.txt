@@ -1,0 +1,6 @@
+google-cloud-bigquery
+requests
+python-dateutil
+networkx
+igraph
+numpy

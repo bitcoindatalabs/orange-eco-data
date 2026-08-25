@@ -1,0 +1,42 @@
+# Python scripts and modules
+*.py
+*.py[cod]
+*$py.class
+__pycache__/
+.venv/
+venv/
+.env
+
+# Code directories
+scripts/
+src/
+tests/
+scratch/
+
+# Jupyter notebooks
+*.ipynb
+
+# Service Accounts and Credentials
+.secrets/
+service_account_key.json
+btc-analysis-*.json
+bq-btc-eco-*.json
+testcoingeckopython-*.json
+bitcaffe-*.json
+*.json
+
+# Data folders
+data/*
+data_v1_backup/
+
+# Docs
+docs/
+
+# Explicitly allow processed data (which we want to share)
+!output/
+!output/*.json
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/

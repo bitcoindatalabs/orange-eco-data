@@ -1,0 +1,1568 @@
+{
+  "flows": [
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Core & Protocol",
+      "year": "2026",
+      "developer_count": 247
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2026",
+      "developer_count": 177
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Lightning Network",
+      "year": "2026",
+      "developer_count": 101
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Ecash / Privacy",
+      "year": "2026",
+      "developer_count": 31
+    },
+    {
+      "from_layer": "Nostr Social",
+      "to_layer": "Nostr Social",
+      "year": "2026",
+      "developer_count": 25
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Mining Infrastructure",
+      "year": "2026",
+      "developer_count": 11
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2026",
+      "developer_count": 10
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Core & Protocol",
+      "year": "2026",
+      "developer_count": 9
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Core & Protocol",
+      "year": "2026",
+      "developer_count": 9
+    },
+    {
+      "from_layer": "Metaprotocols",
+      "to_layer": "Metaprotocols",
+      "year": "2026",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Core & Protocol",
+      "year": "2026",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Lightning Network",
+      "year": "2026",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2026",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Nostr Social",
+      "to_layer": "Lightning Network",
+      "year": "2026",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Lightning Network",
+      "year": "2026",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Ecash / Privacy",
+      "year": "2026",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Lightning Network",
+      "year": "2026",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Nostr Social",
+      "year": "2026",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Core & Protocol",
+      "year": "2026",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Nostr Social",
+      "year": "2026",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Nostr Social",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2026",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecash / Privacy",
+      "year": "2026",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Core & Protocol",
+      "year": "2025",
+      "developer_count": 300
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2025",
+      "developer_count": 211
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Lightning Network",
+      "year": "2025",
+      "developer_count": 121
+    },
+    {
+      "from_layer": "Nostr Social",
+      "to_layer": "Nostr Social",
+      "year": "2025",
+      "developer_count": 72
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Ecash / Privacy",
+      "year": "2025",
+      "developer_count": 31
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2025",
+      "developer_count": 21
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Core & Protocol",
+      "year": "2025",
+      "developer_count": 20
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Mining Infrastructure",
+      "year": "2025",
+      "developer_count": 16
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Core & Protocol",
+      "year": "2025",
+      "developer_count": 10
+    },
+    {
+      "from_layer": "Metaprotocols",
+      "to_layer": "Metaprotocols",
+      "year": "2025",
+      "developer_count": 9
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Unknown",
+      "year": "2025",
+      "developer_count": 7
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Lightning Network",
+      "year": "2025",
+      "developer_count": 7
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Nostr Social",
+      "year": "2025",
+      "developer_count": 6
+    },
+    {
+      "from_layer": "Nostr Social",
+      "to_layer": "Lightning Network",
+      "year": "2025",
+      "developer_count": 4
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Core & Protocol",
+      "year": "2025",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Core & Protocol",
+      "year": "2025",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Nostr Social",
+      "to_layer": "Core & Protocol",
+      "year": "2025",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Mining Infrastructure",
+      "year": "2025",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2025",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecash / Privacy",
+      "year": "2025",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Lightning Network",
+      "year": "2025",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Unknown",
+      "year": "2025",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2025",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Ecash / Privacy",
+      "year": "2025",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Metaprotocols",
+      "year": "2025",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Lightning Network",
+      "year": "2025",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Ecash / Privacy",
+      "year": "2025",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Nostr Social",
+      "year": "2025",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Core & Protocol",
+      "year": "2025",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Mining Infrastructure",
+      "year": "2025",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Ecash / Privacy",
+      "year": "2025",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Nostr Social",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2025",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Lightning Network",
+      "year": "2025",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Metaprotocols",
+      "to_layer": "Core & Protocol",
+      "year": "2025",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Core & Protocol",
+      "year": "2024",
+      "developer_count": 271
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2024",
+      "developer_count": 227
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Lightning Network",
+      "year": "2024",
+      "developer_count": 161
+    },
+    {
+      "from_layer": "Nostr Social",
+      "to_layer": "Nostr Social",
+      "year": "2024",
+      "developer_count": 85
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Ecash / Privacy",
+      "year": "2024",
+      "developer_count": 44
+    },
+    {
+      "from_layer": "Metaprotocols",
+      "to_layer": "Metaprotocols",
+      "year": "2024",
+      "developer_count": 32
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Core & Protocol",
+      "year": "2024",
+      "developer_count": 22
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Core & Protocol",
+      "year": "2024",
+      "developer_count": 14
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2024",
+      "developer_count": 13
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Mining Infrastructure",
+      "year": "2024",
+      "developer_count": 11
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Ecash / Privacy",
+      "year": "2024",
+      "developer_count": 8
+    },
+    {
+      "from_layer": "Nostr Social",
+      "to_layer": "Ecash / Privacy",
+      "year": "2024",
+      "developer_count": 6
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Unknown",
+      "year": "2024",
+      "developer_count": 6
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Lightning Network",
+      "year": "2024",
+      "developer_count": 6
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2024",
+      "developer_count": 5
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Unknown",
+      "year": "2024",
+      "developer_count": 5
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2024",
+      "developer_count": 5
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Lightning Network",
+      "year": "2024",
+      "developer_count": 5
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Nostr Social",
+      "year": "2024",
+      "developer_count": 4
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Core & Protocol",
+      "year": "2024",
+      "developer_count": 4
+    },
+    {
+      "from_layer": "Nostr Social",
+      "to_layer": "Lightning Network",
+      "year": "2024",
+      "developer_count": 4
+    },
+    {
+      "from_layer": "Metaprotocols",
+      "to_layer": "Core & Protocol",
+      "year": "2024",
+      "developer_count": 4
+    },
+    {
+      "from_layer": "Metaprotocols",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2024",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Nostr Social",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2024",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Mining Infrastructure",
+      "year": "2024",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Mining Infrastructure",
+      "year": "2024",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Nostr Social",
+      "to_layer": "Core & Protocol",
+      "year": "2024",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecash / Privacy",
+      "year": "2024",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Nostr Social",
+      "year": "2024",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Mining Infrastructure",
+      "year": "2024",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Ecash / Privacy",
+      "year": "2024",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Metaprotocols",
+      "year": "2024",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2024",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Lightning Network",
+      "year": "2024",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Metaprotocols",
+      "year": "2024",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Metaprotocols",
+      "to_layer": "Lightning Network",
+      "year": "2024",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Core & Protocol",
+      "year": "2023",
+      "developer_count": 260
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2023",
+      "developer_count": 194
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Lightning Network",
+      "year": "2023",
+      "developer_count": 160
+    },
+    {
+      "from_layer": "Nostr Social",
+      "to_layer": "Nostr Social",
+      "year": "2023",
+      "developer_count": 38
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Ecash / Privacy",
+      "year": "2023",
+      "developer_count": 37
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Core & Protocol",
+      "year": "2023",
+      "developer_count": 24
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2023",
+      "developer_count": 16
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Mining Infrastructure",
+      "year": "2023",
+      "developer_count": 14
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Lightning Network",
+      "year": "2023",
+      "developer_count": 13
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Lightning Network",
+      "year": "2023",
+      "developer_count": 8
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2023",
+      "developer_count": 7
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Core & Protocol",
+      "year": "2023",
+      "developer_count": 5
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Nostr Social",
+      "year": "2023",
+      "developer_count": 5
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Metaprotocols",
+      "year": "2023",
+      "developer_count": 4
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Ecash / Privacy",
+      "year": "2023",
+      "developer_count": 4
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecash / Privacy",
+      "year": "2023",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Lightning Network",
+      "year": "2023",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Unknown",
+      "year": "2023",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2023",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Nostr Social",
+      "year": "2023",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Nostr Social",
+      "year": "2023",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Metaprotocols",
+      "year": "2023",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Nostr Social",
+      "year": "2023",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Nostr Social",
+      "to_layer": "Lightning Network",
+      "year": "2023",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Core & Protocol",
+      "year": "2023",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Metaprotocols",
+      "year": "2023",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Core & Protocol",
+      "year": "2023",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Core & Protocol",
+      "year": "2022",
+      "developer_count": 266
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2022",
+      "developer_count": 157
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Lightning Network",
+      "year": "2022",
+      "developer_count": 111
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Ecash / Privacy",
+      "year": "2022",
+      "developer_count": 24
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Core & Protocol",
+      "year": "2022",
+      "developer_count": 18
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Lightning Network",
+      "year": "2022",
+      "developer_count": 16
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2022",
+      "developer_count": 14
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Lightning Network",
+      "year": "2022",
+      "developer_count": 9
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Core & Protocol",
+      "year": "2022",
+      "developer_count": 9
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Mining Infrastructure",
+      "year": "2022",
+      "developer_count": 6
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Nostr Social",
+      "year": "2022",
+      "developer_count": 4
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2022",
+      "developer_count": 4
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Nostr Social",
+      "year": "2022",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecash / Privacy",
+      "year": "2022",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Ecash / Privacy",
+      "year": "2022",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2022",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Nostr Social",
+      "to_layer": "Unknown",
+      "year": "2022",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Ecash / Privacy",
+      "year": "2022",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Unknown",
+      "year": "2022",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Nostr Social",
+      "to_layer": "Nostr Social",
+      "year": "2022",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Mining Infrastructure",
+      "year": "2022",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Core & Protocol",
+      "year": "2022",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Mining Infrastructure",
+      "year": "2022",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Lightning Network",
+      "year": "2022",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Core & Protocol",
+      "year": "2021",
+      "developer_count": 274
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2021",
+      "developer_count": 121
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Lightning Network",
+      "year": "2021",
+      "developer_count": 83
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Ecash / Privacy",
+      "year": "2021",
+      "developer_count": 20
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Core & Protocol",
+      "year": "2021",
+      "developer_count": 18
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2021",
+      "developer_count": 15
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Core & Protocol",
+      "year": "2021",
+      "developer_count": 6
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Lightning Network",
+      "year": "2021",
+      "developer_count": 5
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2021",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Core & Protocol",
+      "year": "2021",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Mining Infrastructure",
+      "year": "2021",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Unknown",
+      "year": "2021",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Lightning Network",
+      "year": "2021",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecash / Privacy",
+      "year": "2021",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Mining Infrastructure",
+      "year": "2021",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2021",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Mining Infrastructure",
+      "year": "2021",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2021",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Core & Protocol",
+      "year": "2020",
+      "developer_count": 235
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2020",
+      "developer_count": 114
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Lightning Network",
+      "year": "2020",
+      "developer_count": 69
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Ecash / Privacy",
+      "year": "2020",
+      "developer_count": 20
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Core & Protocol",
+      "year": "2020",
+      "developer_count": 16
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Core & Protocol",
+      "year": "2020",
+      "developer_count": 12
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2020",
+      "developer_count": 12
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Lightning Network",
+      "year": "2020",
+      "developer_count": 7
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Mining Infrastructure",
+      "year": "2020",
+      "developer_count": 7
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecash / Privacy",
+      "year": "2020",
+      "developer_count": 5
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Unknown",
+      "year": "2020",
+      "developer_count": 4
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2020",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Lightning Network",
+      "year": "2020",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Ecash / Privacy",
+      "year": "2020",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Core & Protocol",
+      "year": "2020",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Ecash / Privacy",
+      "year": "2020",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Core & Protocol",
+      "year": "2020",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Lightning Network",
+      "year": "2020",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Core & Protocol",
+      "year": "2019",
+      "developer_count": 239
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2019",
+      "developer_count": 69
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Lightning Network",
+      "year": "2019",
+      "developer_count": 61
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2019",
+      "developer_count": 23
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Ecash / Privacy",
+      "year": "2019",
+      "developer_count": 21
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Core & Protocol",
+      "year": "2019",
+      "developer_count": 9
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Core & Protocol",
+      "year": "2019",
+      "developer_count": 8
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Lightning Network",
+      "year": "2019",
+      "developer_count": 7
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Mining Infrastructure",
+      "year": "2019",
+      "developer_count": 7
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Unknown",
+      "year": "2019",
+      "developer_count": 4
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecash / Privacy",
+      "year": "2019",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2019",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Core & Protocol",
+      "year": "2019",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Unknown",
+      "year": "2019",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Ecash / Privacy",
+      "year": "2019",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Core & Protocol",
+      "year": "2019",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Lightning Network",
+      "year": "2019",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2019",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Core & Protocol",
+      "year": "2019",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Core & Protocol",
+      "year": "2018",
+      "developer_count": 185
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2018",
+      "developer_count": 30
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Lightning Network",
+      "year": "2018",
+      "developer_count": 22
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2018",
+      "developer_count": 13
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Mining Infrastructure",
+      "year": "2018",
+      "developer_count": 10
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Lightning Network",
+      "year": "2018",
+      "developer_count": 8
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Ecash / Privacy",
+      "year": "2018",
+      "developer_count": 7
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Core & Protocol",
+      "year": "2018",
+      "developer_count": 4
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Unknown",
+      "year": "2018",
+      "developer_count": 4
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Core & Protocol",
+      "year": "2018",
+      "developer_count": 4
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Core & Protocol",
+      "year": "2018",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecash / Privacy",
+      "year": "2018",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Ecash / Privacy",
+      "year": "2018",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Lightning Network",
+      "year": "2018",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2018",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2018",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Core & Protocol",
+      "year": "2017",
+      "developer_count": 131
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2017",
+      "developer_count": 25
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Lightning Network",
+      "year": "2017",
+      "developer_count": 13
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Mining Infrastructure",
+      "year": "2017",
+      "developer_count": 7
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Core & Protocol",
+      "year": "2017",
+      "developer_count": 6
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2017",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Unknown",
+      "year": "2017",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Ecash / Privacy",
+      "year": "2017",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecash / Privacy",
+      "year": "2017",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Mining Infrastructure",
+      "year": "2017",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Lightning Network",
+      "year": "2017",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Ecash / Privacy",
+      "to_layer": "Ecash / Privacy",
+      "year": "2017",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2017",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Core & Protocol",
+      "year": "2017",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Core & Protocol",
+      "year": "2017",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Unknown",
+      "year": "2017",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Unknown",
+      "year": "2017",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Core & Protocol",
+      "year": "2016",
+      "developer_count": 124
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2016",
+      "developer_count": 36
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Core & Protocol",
+      "year": "2016",
+      "developer_count": 7
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Mining Infrastructure",
+      "year": "2016",
+      "developer_count": 6
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Ecosystem Tooling",
+      "year": "2016",
+      "developer_count": 4
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Lightning Network",
+      "year": "2016",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Lightning Network",
+      "year": "2016",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Unknown",
+      "to_layer": "Unknown",
+      "year": "2016",
+      "developer_count": 3
+    },
+    {
+      "from_layer": "Mining Infrastructure",
+      "to_layer": "Core & Protocol",
+      "year": "2016",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Core & Protocol",
+      "to_layer": "Mining Infrastructure",
+      "year": "2016",
+      "developer_count": 2
+    },
+    {
+      "from_layer": "Lightning Network",
+      "to_layer": "Core & Protocol",
+      "year": "2016",
+      "developer_count": 1
+    },
+    {
+      "from_layer": "Ecosystem Tooling",
+      "to_layer": "Lightning Network",
+      "year": "2016",
+      "developer_count": 1
+    }
+  ],
+  "yearly_layer_totals": {
+    "2015": {
+      "Core & Protocol": 303,
+      "Ecosystem Tooling": 95,
+      "Lightning Network": 4,
+      "Mining Infrastructure": 19,
+      "Unknown": 7
+    },
+    "2016": {
+      "Core & Protocol": 324,
+      "Ecosystem Tooling": 81,
+      "Lightning Network": 24,
+      "Ecash / Privacy": 1,
+      "Mining Infrastructure": 17,
+      "Unknown": 5
+    },
+    "2017": {
+      "Core & Protocol": 490,
+      "Ecosystem Tooling": 108,
+      "Lightning Network": 68,
+      "Ecash / Privacy": 17,
+      "Mining Infrastructure": 33,
+      "Unknown": 15
+    },
+    "2018": {
+      "Core & Protocol": 663,
+      "Lightning Network": 155,
+      "Ecash / Privacy": 39,
+      "Ecosystem Tooling": 218,
+      "Mining Infrastructure": 27,
+      "Unknown": 14
+    },
+    "2019": {
+      "Core & Protocol": 614,
+      "Lightning Network": 163,
+      "Ecash / Privacy": 45,
+      "Ecosystem Tooling": 322,
+      "Unknown": 16,
+      "Mining Infrastructure": 23
+    },
+    "2020": {
+      "Core & Protocol": 620,
+      "Lightning Network": 158,
+      "Ecash / Privacy": 47,
+      "Ecosystem Tooling": 298,
+      "Mining Infrastructure": 12,
+      "Unknown": 11
+    },
+    "2021": {
+      "Core & Protocol": 791,
+      "Lightning Network": 218,
+      "Ecash / Privacy": 39,
+      "Ecosystem Tooling": 397,
+      "Mining Infrastructure": 19,
+      "Nostr Social": 3,
+      "Unknown": 6
+    },
+    "2022": {
+      "Core & Protocol": 725,
+      "Lightning Network": 352,
+      "Ecash / Privacy": 69,
+      "Ecosystem Tooling": 515,
+      "Mining Infrastructure": 32,
+      "Nostr Social": 69,
+      "Unknown": 13
+    },
+    "2023": {
+      "Core & Protocol": 627,
+      "Lightning Network": 400,
+      "Ecash / Privacy": 108,
+      "Ecosystem Tooling": 542,
+      "Mining Infrastructure": 35,
+      "Metaprotocols": 689,
+      "Nostr Social": 312,
+      "Unknown": 16
+    },
+    "2024": {
+      "Core & Protocol": 788,
+      "Lightning Network": 346,
+      "Ecash / Privacy": 106,
+      "Ecosystem Tooling": 540,
+      "Mining Infrastructure": 40,
+      "Nostr Social": 178,
+      "Metaprotocols": 94,
+      "Unknown": 31
+    },
+    "2025": {
+      "Core & Protocol": 763,
+      "Lightning Network": 274,
+      "Ecosystem Tooling": 467,
+      "Mining Infrastructure": 40,
+      "Ecash / Privacy": 78,
+      "Nostr Social": 131,
+      "Metaprotocols": 17,
+      "Unknown": 12
+    },
+    "2026": {
+      "Core & Protocol": 365,
+      "Lightning Network": 162,
+      "Ecash / Privacy": 43,
+      "Ecosystem Tooling": 265,
+      "Mining Infrastructure": 16,
+      "Nostr Social": 55,
+      "Metaprotocols": 5
+    }
+  }
+}
