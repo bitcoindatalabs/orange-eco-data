@@ -17,7 +17,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Node/Core"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "0xchat-app/cashu-dart",
@@ -37,7 +37,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Ecash / Privacy",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "0xrajath/BitcoinClustering",
@@ -107,7 +107,7 @@
     "total_downloads": 21,
     "latest_release_date": "2024-09-22T17:07:08Z",
     "layer": "Nostr Social",
-    "repo_type": "Developer Education"
+    "repo_type": "Nostr"
   },
   {
     "id": "1200wd/bitcoinlib",
@@ -140,7 +140,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Wallet"
   },
   {
     "id": "1234max/multivendorbitcoinmart",
@@ -181,7 +181,7 @@
     "total_downloads": 0,
     "latest_release_date": "2023-05-09T22:11:54Z",
     "layer": "Lightning Network",
-    "repo_type": "Merchant & Payments"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "2miners/stratum-ping",
@@ -208,7 +208,7 @@
     "latest_release_date": "2021-02-03T14:40:39Z",
     "api_total_contributors": 3,
     "layer": "Mining Infrastructure",
-    "repo_type": "Developer Education"
+    "repo_type": "Mining"
   },
   {
     "id": "8go/nostr-commander-rs",
@@ -238,7 +238,7 @@
     "total_downloads": 1978,
     "latest_release_date": "2024-10-01T11:27:04Z",
     "layer": "Nostr Social",
-    "repo_type": "Developer Education"
+    "repo_type": "Wallet"
   },
   {
     "id": "ACINQ/bitcoin-kmp",
@@ -390,7 +390,7 @@
     "latest_release_date": "2026-07-13T14:47:11Z",
     "api_total_contributors": 4,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Infrastructure"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "ACINQ/secp256k1-kmp",
@@ -776,7 +776,7 @@
     "latest_release_date": null,
     "api_total_contributors": 7,
     "layer": "Core & Protocol",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "Bitcoin-ABC/bitcoin-abc",
@@ -821,8 +821,8 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "api_total_contributors": 1,
-    "layer": "Mining Infrastructure",
-    "repo_type": "Mining"
+    "layer": "Core & Protocol",
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "Bitcoin-Wildlife-Sanctuary/bitcoin-circle-stark",
@@ -1228,7 +1228,7 @@
     "total_downloads": 298,
     "latest_release_date": "2020-09-29T11:12:45Z",
     "layer": "Core & Protocol",
-    "repo_type": "Node/Core"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "BlockChainCaffe/Nostr-Relay-Setup-Guide",
@@ -1341,7 +1341,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "Blockstream/electrs",
@@ -1401,7 +1401,7 @@
     "total_downloads": 40222,
     "latest_release_date": "2026-07-20T15:53:44Z",
     "layer": "Ecosystem Tooling",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "Blockstream/green_android",
@@ -1581,7 +1581,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Protocol & Specs"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "BlockstreamResearch/secp256k1-zkp",
@@ -2041,7 +2041,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Lightning Network",
-    "repo_type": "Merchant & Payments"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "ElementsProject/ifpaytt",
@@ -2069,7 +2069,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Lightning Network",
-    "repo_type": "Merchant & Payments"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "ElementsProject/libwally-core",
@@ -2140,7 +2140,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Lightning Network",
-    "repo_type": "Merchant & Payments"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "ElementsProject/lightning-charge-client-js",
@@ -2225,7 +2225,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Lightning Network",
-    "repo_type": "Merchant & Payments"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "ElementsProject/paypercall",
@@ -2273,7 +2273,7 @@
     "total_downloads": 0,
     "latest_release_date": "2026-08-08T20:41:30Z",
     "layer": "Ecosystem Tooling",
-    "repo_type": "Infrastructure"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "ElementsProject/rust-elements",
@@ -3554,7 +3554,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Nostr Social",
-    "repo_type": "Developer Education"
+    "repo_type": "Wallet"
   },
   {
     "id": "MehdiTAZI/BitCoinAccountsBlanceChecker",
@@ -3823,7 +3823,7 @@
     "total_downloads": 0,
     "latest_release_date": "2024-04-15T18:06:54Z",
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Wallet"
   },
   {
     "id": "MutinyWallet/blastr",
@@ -4333,7 +4333,7 @@
     "latest_release_date": "2025-06-03T09:02:12Z",
     "api_total_contributors": 15,
     "layer": "Lightning Network",
-    "repo_type": "Developer Education"
+    "repo_type": "Wallet"
   },
   {
     "id": "RGB-WG/rgb-core",
@@ -4669,7 +4669,7 @@
     "latest_release_date": "2026-08-15T09:13:10Z",
     "api_total_contributors": 130,
     "layer": "Lightning Network",
-    "repo_type": "Developer Education"
+    "repo_type": "Merchant & Payments"
   },
   {
     "id": "SChernykh/p2pool",
@@ -4723,7 +4723,7 @@
     "latest_release_date": null,
     "api_total_contributors": 1,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "SamSamskies/nostr-zap",
@@ -4958,7 +4958,7 @@
     "total_downloads": 0,
     "latest_release_date": "2023-01-10T23:02:03Z",
     "layer": "Lightning Network",
-    "repo_type": "Developer Education"
+    "repo_type": "Node/Core"
   },
   {
     "id": "SatoshiPortal/dockers",
@@ -5085,7 +5085,7 @@
     "latest_release_date": null,
     "api_total_contributors": 7,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Merchant & Payments"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "TBD54566975/developer.tbd.website",
@@ -5106,7 +5106,7 @@
     "latest_release_date": null,
     "api_total_contributors": 89,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "TBD54566975/open-source-programs",
@@ -5127,7 +5127,7 @@
     "latest_release_date": null,
     "api_total_contributors": 5,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Infrastructure"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "TBD54566975/ssi-sdk",
@@ -5181,7 +5181,7 @@
     "latest_release_date": "2023-06-20T15:31:34Z",
     "api_total_contributors": 23,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Infrastructure"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "TBD54566975/tbd-project-template",
@@ -5223,7 +5223,7 @@
     "latest_release_date": "2023-09-11T23:42:21Z",
     "api_total_contributors": 26,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Protocol & Specs"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "TBD54566975/tbdex-js",
@@ -5244,7 +5244,7 @@
     "latest_release_date": "2024-09-03T19:25:11Z",
     "api_total_contributors": 15,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "TBD54566975/tbdex-rs",
@@ -5286,7 +5286,7 @@
     "latest_release_date": "2023-06-22T07:55:21Z",
     "api_total_contributors": 8,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Protocol & Specs"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "TensorFlowKR/dlcampjeju",
@@ -5331,7 +5331,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Lightning Network",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "TheCharlatan/rust-bitcoinkernel",
@@ -5371,8 +5371,8 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "api_total_contributors": 6,
-    "layer": "Mining Infrastructure",
-    "repo_type": "Mining"
+    "layer": "Core & Protocol",
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "TheZ3ro/bitcoin-privatekey-db",
@@ -5469,7 +5469,7 @@
     "total_downloads": 0,
     "latest_release_date": "2018-01-31T08:57:03Z",
     "layer": "Ecosystem Tooling",
-    "repo_type": "Developer Education"
+    "repo_type": "Indexer/Data"
   },
   {
     "id": "ZeroSync/ZeroSync",
@@ -5515,7 +5515,7 @@
     "latest_release_date": null,
     "api_total_contributors": 5,
     "layer": "Core & Protocol",
-    "repo_type": "Infrastructure"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "ZeusLN/zeus",
@@ -5599,7 +5599,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Nostr Social",
-    "repo_type": "Developer Education"
+    "repo_type": "Node/Core"
   },
   {
     "id": "adshao/ordinals-indexer",
@@ -5685,7 +5685,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "akiomik/nostrends",
@@ -5756,7 +5756,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Lightning Network",
-    "repo_type": "Developer Education"
+    "repo_type": "Node/Core"
   },
   {
     "id": "alexbosworth/lightning",
@@ -5876,7 +5876,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Lightning Network",
-    "repo_type": "Developer Education"
+    "repo_type": "Indexer/Data"
   },
   {
     "id": "ameijer/bitcoin_wallet_recovery_tool",
@@ -5897,7 +5897,7 @@
     "latest_release_date": "2021-04-10T13:32:08Z",
     "api_total_contributors": 1,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Wallet"
   },
   {
     "id": "amitiuttarwar/bitcoin-bytes",
@@ -5917,7 +5917,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "amitiuttarwar/bitcoin-notes",
@@ -5937,7 +5937,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "anders94/bitcoin-supply.com",
@@ -5960,7 +5960,7 @@
     "latest_release_date": null,
     "api_total_contributors": 1,
     "layer": "Core & Protocol",
-    "repo_type": "Indexer/Data"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "andkom/php-bitcoin-wallet",
@@ -6059,7 +6059,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "arcbtc/LNURLPoS",
@@ -6099,7 +6099,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Merchant & Payments"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "arcbtc/bitcoinVend",
@@ -6119,7 +6119,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Merchant & Payments"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "arcbtc/bowser-bitcoin-hardware-wallet",
@@ -6179,7 +6179,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "arduino-bitcoin/simple_hardware_wallet",
@@ -6219,7 +6219,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Lightning Network",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "arikan/bitcoin-voting",
@@ -6239,7 +6239,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Protocol & Specs"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "ark-network/ark",
@@ -6287,7 +6287,7 @@
     "latest_release_date": null,
     "api_total_contributors": 3,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Protocol & Specs"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "arthurgervais/Bitcoin-Simulation",
@@ -6307,7 +6307,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "arthurgervais/Bitcoin-Simulator",
@@ -6390,7 +6390,7 @@
     "latest_release_date": null,
     "api_total_contributors": 7,
     "layer": "Core & Protocol",
-    "repo_type": "Wallet"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bboerst/stratum-work",
@@ -6526,7 +6526,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Node/Core"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bernardladenthin/BitcoinAddressFinder",
@@ -6567,7 +6567,7 @@
     "latest_release_date": "2026-07-23T20:37:32Z",
     "api_total_contributors": 5,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Wallet"
   },
   {
     "id": "berryjam/mastering-bitcoin-3rd",
@@ -6587,7 +6587,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bethanyuo/bitcoin-wallet",
@@ -6682,7 +6682,7 @@
     "latest_release_date": "2026-05-24T12:24:04Z",
     "api_total_contributors": 64,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Wallet"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoin-0/btc0",
@@ -6745,7 +6745,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Protocol & Specs"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoin-cash-node/bitcoin-cash-node",
@@ -6811,7 +6811,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Node/Core"
   },
   {
     "id": "bitcoin-core/HWI",
@@ -6851,7 +6851,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Infrastructure"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoin-core/bitcoin-devwiki",
@@ -6891,7 +6891,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Node/Core"
   },
   {
     "id": "bitcoin-core/bitcoincore.org",
@@ -6914,7 +6914,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Node/Core"
   },
   {
     "id": "bitcoin-core/btcdeb",
@@ -7180,7 +7180,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoin-dev-project/decoding-bitcoin",
@@ -7223,7 +7223,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoin-dev-project/sim-ln",
@@ -7243,7 +7243,7 @@
     "total_downloads": 0,
     "latest_release_date": "2025-05-12T13:36:17Z",
     "layer": "Lightning Network",
-    "repo_type": "Infrastructure"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoin-dev-project/warnet",
@@ -7263,7 +7263,7 @@
     "total_downloads": 362,
     "latest_release_date": "2026-02-28T03:14:52Z",
     "layer": "Core & Protocol",
-    "repo_type": "Infrastructure"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoin-dot-org/Bitcoin-Wallet",
@@ -7313,7 +7313,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoin-dot-org/BitcoinWalletMobile",
@@ -7359,7 +7359,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoin-hivemind/hivemind",
@@ -7379,7 +7379,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Protocol & Specs"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoin-model/bitcoin_model",
@@ -7439,7 +7439,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Merchant & Payments"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoin-s/bitcoin-s",
@@ -7686,7 +7686,7 @@
     "total_downloads": 4964,
     "latest_release_date": "2017-10-10T09:56:54Z",
     "layer": "Core & Protocol",
-    "repo_type": "Node/Core"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoindevkit/bdk",
@@ -7739,7 +7739,7 @@
     "total_downloads": 0,
     "latest_release_date": "2026-07-23T20:23:30Z",
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Wallet"
   },
   {
     "id": "bitcoindevkit/bdk-ffi",
@@ -7766,7 +7766,7 @@
     "total_downloads": 0,
     "latest_release_date": "2026-06-09T19:39:08Z",
     "layer": "Core & Protocol",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoindevkit/bdk-kyoto",
@@ -7806,7 +7806,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoindevkit/bdk-swift",
@@ -7866,7 +7866,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoindevkit/bitcoindevkit.org",
@@ -7889,7 +7889,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoindevkit/book-of-bdk",
@@ -7909,7 +7909,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoindevkit/rust-electrum-client",
@@ -8085,7 +8085,7 @@
     "latest_release_date": null,
     "api_total_contributors": 13,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoinjs/fast-dat-parser",
@@ -8212,7 +8212,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoinops/scaling-book",
@@ -8232,7 +8232,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoinops/taproot-workshop",
@@ -8304,7 +8304,7 @@
     "total_downloads": 0,
     "latest_release_date": "2024-11-06T15:29:01Z",
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcointranscripts/bitcointranscripts",
@@ -8331,7 +8331,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Lightning Network",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitcoinxt/bitcoinxt",
@@ -8351,7 +8351,7 @@
     "total_downloads": 36847,
     "latest_release_date": "2019-05-15T14:25:56Z",
     "layer": "Core & Protocol",
-    "repo_type": "Node/Core"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitmaintech/Antminer_firmware",
@@ -8371,8 +8371,8 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "api_total_contributors": 2,
-    "layer": "Mining Infrastructure",
-    "repo_type": "Mining"
+    "layer": "Ecosystem Tooling",
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitmaintech/S9_makepackage",
@@ -8393,7 +8393,7 @@
     "latest_release_date": null,
     "api_total_contributors": 1,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Developer Education"
+    "repo_type": "Library"
   },
   {
     "id": "bitmaintech/bmminer-mix",
@@ -8413,8 +8413,8 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "api_total_contributors": 3,
-    "layer": "Mining Infrastructure",
-    "repo_type": "Mining"
+    "layer": "Ecosystem Tooling",
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "bitmaintech/cgminer",
@@ -8856,7 +8856,7 @@
     "total_downloads": 0,
     "latest_release_date": "2019-05-14T19:18:30Z",
     "layer": "Core & Protocol",
-    "repo_type": "Merchant & Payments"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "blockchain/bitcoin-exchange-client",
@@ -8876,7 +8876,7 @@
     "total_downloads": 0,
     "latest_release_date": "2018-06-04T14:04:59Z",
     "layer": "Core & Protocol",
-    "repo_type": "Merchant & Payments"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "blockchain/bitcoin-unocoin-client",
@@ -8896,7 +8896,7 @@
     "total_downloads": 0,
     "latest_release_date": "2017-11-21T14:53:44Z",
     "layer": "Core & Protocol",
-    "repo_type": "Merchant & Payments"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "blockchain/bitcoinj",
@@ -8936,7 +8936,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Infrastructure"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "braiins/bmminer",
@@ -8957,7 +8957,7 @@
     "latest_release_date": null,
     "api_total_contributors": 6,
     "layer": "Mining Infrastructure",
-    "repo_type": "Mining"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "braiins/bos-plus-api",
@@ -9020,7 +9020,7 @@
     "latest_release_date": "2019-04-21T20:08:53Z",
     "api_total_contributors": 19,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Wallet"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "breez/breezmobile",
@@ -9185,7 +9185,7 @@
     "latest_release_date": "2021-03-18T08:57:05Z",
     "api_total_contributors": 12,
     "layer": "Core & Protocol",
-    "repo_type": "Merchant & Payments"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "btcpayserver/btcpayserver",
@@ -9365,7 +9365,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "btcsuite/btcwallet",
@@ -9550,7 +9550,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Metaprotocols",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "cashubtc/awesome-cashu",
@@ -9614,7 +9614,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Ecash / Privacy",
-    "repo_type": "Privacy & CoinJoin"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "cashubtc/cashu-ts",
@@ -9679,7 +9679,7 @@
     "total_downloads": 1444,
     "latest_release_date": "2026-07-12T22:47:53Z",
     "layer": "Ecash / Privacy",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "cashubtc/eNuts",
@@ -9733,8 +9733,8 @@
     "license": "MIT",
     "total_downloads": 0,
     "latest_release_date": null,
-    "layer": "Nostr Social",
-    "repo_type": "Nostr"
+    "layer": "Ecash / Privacy",
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "cashubtc/nuts",
@@ -9981,7 +9981,7 @@
     "latest_release_date": null,
     "api_total_contributors": 4,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Developer Education"
+    "repo_type": "Library"
   },
   {
     "id": "chainwayxyz/citrea",
@@ -10054,7 +10054,7 @@
     "latest_release_date": null,
     "api_total_contributors": 4,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Protocol & Specs"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "chaors/Bitcoin_read",
@@ -10074,7 +10074,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "chibui191/bitcoin_volatility_forecasting",
@@ -10217,8 +10217,8 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "api_total_contributors": 1,
-    "layer": "Mining Infrastructure",
-    "repo_type": "Mining"
+    "layer": "Core & Protocol",
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "coinkite/coinkite-tap-proto",
@@ -10304,7 +10304,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "cosmoio/bitcoin_key_recovery_attack",
@@ -10386,7 +10386,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Indexer/Data"
   },
   {
     "id": "cryptoapi/Bitcoin-Payments-WP-eCommerce",
@@ -10406,7 +10406,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Merchant & Payments"
   },
   {
     "id": "cryptoapi/Bitcoin-Payments-Woocommerce",
@@ -10433,7 +10433,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Indexer/Data"
   },
   {
     "id": "cryptocoinjs/secp256k1-node",
@@ -10627,7 +10627,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "davidawad/DistributedBitcoinMiner",
@@ -10668,7 +10668,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Merchant & Payments"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "decred/cgminer",
@@ -10688,8 +10688,8 @@
     "total_downloads": 0,
     "latest_release_date": "2016-02-10T17:46:52Z",
     "api_total_contributors": 67,
-    "layer": "Mining Infrastructure",
-    "repo_type": "Mining"
+    "layer": "Ecosystem Tooling",
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "demining/bitcoindigger",
@@ -10755,7 +10755,7 @@
     "latest_release_date": null,
     "api_total_contributors": 2,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Merchant & Payments"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "denpamusic/laravel-bitcoinrpc",
@@ -10854,7 +10854,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "dexX7/java-libbitcoinconsensus",
@@ -10896,7 +10896,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "digitalbitbox/2FA-app",
@@ -10958,7 +10958,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Protocol & Specs"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "diybitcoinhardware/embit",
@@ -11087,7 +11087,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "earthbitcoin/taproot-sdk",
@@ -11258,7 +11258,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Wallet"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "eveybcd/BitcoinDiamond",
@@ -11444,7 +11444,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "flashbots/mempool-dumpster",
@@ -11749,7 +11749,7 @@
     "latest_release_date": null,
     "api_total_contributors": 17,
     "layer": "Core & Protocol",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "getAlby/awesome-nwc",
@@ -11887,7 +11887,7 @@
     "total_downloads": 0,
     "latest_release_date": "2026-07-22T08:23:18Z",
     "layer": "Lightning Network",
-    "repo_type": "Developer Education"
+    "repo_type": "Protocol & Specs"
   },
   {
     "id": "getAlby/js-sdk",
@@ -12020,7 +12020,7 @@
     "latest_release_date": null,
     "api_total_contributors": 2,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "ghgr/HFT_Bitcoin",
@@ -12081,7 +12081,7 @@
     "total_downloads": 632065,
     "latest_release_date": "2026-05-20T15:43:46Z",
     "layer": "Core & Protocol",
-    "repo_type": "Wallet"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "goldshtn/LiveStacks",
@@ -12389,7 +12389,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Nostr Social",
-    "repo_type": "Developer Education"
+    "repo_type": "Nostr"
   },
   {
     "id": "hhanh00/secp256k1-cl",
@@ -12410,7 +12410,7 @@
     "latest_release_date": null,
     "api_total_contributors": 1,
     "layer": "Core & Protocol",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "hirosystems/bitcoin-indexer",
@@ -12528,7 +12528,7 @@
     "total_downloads": 0,
     "latest_release_date": "2023-07-17T22:41:05Z",
     "layer": "Ecosystem Tooling",
-    "repo_type": "Infrastructure"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "hirosystems/stacks.js",
@@ -12612,7 +12612,7 @@
     "total_downloads": 0,
     "latest_release_date": "2023-04-25T08:51:29Z",
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Node/Core"
   },
   {
     "id": "horizontalsystems/bitcoin-kit-ios",
@@ -12653,7 +12653,7 @@
     "total_downloads": 0,
     "latest_release_date": "2020-01-07T04:21:15Z",
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Node/Core"
   },
   {
     "id": "hzrd149/nostrudel",
@@ -12696,7 +12696,7 @@
     "total_downloads": 238982,
     "latest_release_date": "2023-08-01T04:00:06Z",
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "iancoleman/jsbip39",
@@ -12716,7 +12716,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "iceland2k14/secp256k1",
@@ -12996,7 +12996,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "jamaljsr/polar",
@@ -13349,7 +13349,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Nostr Social",
-    "repo_type": "Developer Education"
+    "repo_type": "Nostr"
   },
   {
     "id": "jimilai/bitcoin",
@@ -13369,7 +13369,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "jimilai/bitcoin-cshap-.net",
@@ -13389,7 +13389,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "jimmysong/programmingbitcoin",
@@ -13449,7 +13449,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "joaodealmeida/woocommerce-gateway-lightning",
@@ -14064,7 +14064,7 @@
     "total_downloads": 0,
     "latest_release_date": "2023-08-18T12:06:04Z",
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Library"
   },
   {
     "id": "libbitcoin/libbitcoin-blockchain",
@@ -14622,7 +14622,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Lightning Network",
-    "repo_type": "Developer Education"
+    "repo_type": "Library"
   },
   {
     "id": "lightninglabs/aperture",
@@ -14669,7 +14669,7 @@
     "total_downloads": 22997,
     "latest_release_date": "2026-03-04T07:05:11Z",
     "layer": "Lightning Network",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "lightninglabs/faraday",
@@ -14689,7 +14689,7 @@
     "total_downloads": 5305,
     "latest_release_date": "2025-01-21T17:54:27Z",
     "layer": "Lightning Network",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "lightninglabs/lightning-app",
@@ -15152,7 +15152,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Metaprotocols",
-    "repo_type": "Protocol & Specs"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "lwjaiyjk/bitcoin-comment-0.1.0",
@@ -15172,7 +15172,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "lyndsysimon/bip32utils",
@@ -15283,7 +15283,7 @@
     "latest_release_date": null,
     "api_total_contributors": 7,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "matter-labs/block-explorer",
@@ -15481,7 +15481,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Developer Education"
+    "repo_type": "Indexer/Data"
   },
   {
     "id": "mempool/mempool.js",
@@ -15592,7 +15592,7 @@
     "total_downloads": 319,
     "latest_release_date": "2019-02-12T16:48:07Z",
     "layer": "Lightning Network",
-    "repo_type": "Merchant & Payments"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "micro-bitcoin/uBitcoin",
@@ -15876,7 +15876,7 @@
     "latest_release_date": null,
     "api_total_contributors": 5,
     "layer": "Lightning Network",
-    "repo_type": "Developer Education"
+    "repo_type": "Library"
   },
   {
     "id": "mit-dci/rustreexo",
@@ -15897,7 +15897,7 @@
     "latest_release_date": "2026-07-09T01:15:04Z",
     "api_total_contributors": 11,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "mit-dci/utreexo",
@@ -16049,7 +16049,7 @@
     "latest_release_date": "2023-02-21T16:31:14Z",
     "api_total_contributors": 5,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "nanotube/supybot-bitcoin-marketmonitor",
@@ -16112,7 +16112,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Developer Education"
+    "repo_type": "Protocol & Specs"
   },
   {
     "id": "nbd-wtf/nostr-tools",
@@ -16134,7 +16134,7 @@
     "total_downloads": 0,
     "latest_release_date": "2023-12-19T17:33:31Z",
     "layer": "Nostr Social",
-    "repo_type": "Developer Education"
+    "repo_type": "Wallet"
   },
   {
     "id": "nbd-wtf/obw",
@@ -16203,7 +16203,7 @@
     "total_downloads": 609,
     "latest_release_date": "2023-10-20T20:20:03Z",
     "layer": "Lightning Network",
-    "repo_type": "Merchant & Payments"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "nbd-wtf/soma",
@@ -16321,8 +16321,8 @@
     "total_downloads": 1043,
     "latest_release_date": "2024-07-04T21:03:44Z",
     "api_total_contributors": 1,
-    "layer": "Mining Infrastructure",
-    "repo_type": "Mining"
+    "layer": "Ecosystem Tooling",
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "neu-fi/awesome-ordinals",
@@ -16398,7 +16398,7 @@
     "latest_release_date": "2024-09-19T03:14:12Z",
     "api_total_contributors": 15,
     "layer": "Core & Protocol",
-    "repo_type": "Infrastructure"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "nomic-io/shea",
@@ -16800,7 +16800,7 @@
     "latest_release_date": "2026-08-13T11:40:01Z",
     "api_total_contributors": 4,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Wallet"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "oldnicke/MasteringBitcoin",
@@ -16820,7 +16820,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "oleganza/CoreBitcoin",
@@ -17110,7 +17110,7 @@
     "total_downloads": 27,
     "latest_release_date": "2021-12-21T11:50:39Z",
     "layer": "Core & Protocol",
-    "repo_type": "Wallet"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "paritytech/parity-bitcoin",
@@ -17537,7 +17537,7 @@
     "latest_release_date": "2026-04-28T09:36:12Z",
     "api_total_contributors": 10,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "paulmillr/scure-base",
@@ -17727,7 +17727,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Wallet"
   },
   {
     "id": "penpenpng/rx-nostr",
@@ -18000,8 +18000,8 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "api_total_contributors": 1,
-    "layer": "Mining Infrastructure",
-    "repo_type": "Mining"
+    "layer": "Core & Protocol",
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "progranism/Open-Source-FPGA-Bitcoin-Miner",
@@ -18042,7 +18042,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Infrastructure"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "pythonlessons/RL-Bitcoin-trading-bot",
@@ -18166,7 +18166,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Lightning Network",
-    "repo_type": "Developer Education"
+    "repo_type": "Protocol & Specs"
   },
   {
     "id": "renepickhardt/The-Lightning-Network-Book",
@@ -18256,7 +18256,7 @@
     "total_downloads": 0,
     "latest_release_date": "2018-05-06T09:00:15Z",
     "layer": "Lightning Network",
-    "repo_type": "Merchant & Payments"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "robertwb/bitcoin-taxes",
@@ -18533,7 +18533,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "rust-bitcoin/rust-bech32-bitcoin",
@@ -18553,7 +18553,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "rust-bitcoin/rust-bip39",
@@ -18633,7 +18633,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "rust-bitcoin/rust-secp256k1",
@@ -18983,7 +18983,7 @@
     "total_downloads": 0,
     "latest_release_date": "2026-03-18T14:11:22Z",
     "layer": "Ecosystem Tooling",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "scaling-lightning/scaling-lightning",
@@ -19008,7 +19008,7 @@
     "total_downloads": 385,
     "latest_release_date": "2026-06-16T14:58:45Z",
     "layer": "Lightning Network",
-    "repo_type": "Developer Education"
+    "repo_type": "Library"
   },
   {
     "id": "scikit-learn-contrib/lightning",
@@ -19225,7 +19225,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Node/Core"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "sipa/bitcoin-seeder",
@@ -19245,7 +19245,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Infrastructure"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "sipa/bitcoin-stats",
@@ -19265,7 +19265,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Indexer/Data"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "sipa/miniscript",
@@ -19305,7 +19305,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "slaninas/nostr-bot",
@@ -19433,7 +19433,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "sparrowwallet/sparrow",
@@ -19526,7 +19526,7 @@
     "latest_release_date": null,
     "api_total_contributors": 57,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Indexer/Data"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "spesmilo/electrum-web",
@@ -19547,7 +19547,7 @@
     "latest_release_date": null,
     "api_total_contributors": 10,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "spesmilo/electrumx",
@@ -19573,7 +19573,7 @@
     "latest_release_date": null,
     "api_total_contributors": 181,
     "layer": "Core & Protocol",
-    "repo_type": "Indexer/Data"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "spooknik/Bitcoin-wallet-cracker",
@@ -19683,7 +19683,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Infrastructure"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "stacks-archive/blockstack-browser",
@@ -19745,7 +19745,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Developer Education"
+    "repo_type": "Wallet"
   },
   {
     "id": "stacks-archive/clarity-js-sdk",
@@ -19980,7 +19980,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "stacks-network/blockstack-ruby",
@@ -20136,7 +20136,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "stacks-network/keylib-py",
@@ -20555,7 +20555,7 @@
     "latest_release_date": "2018-11-29T07:04:02Z",
     "api_total_contributors": 594,
     "layer": "Core & Protocol",
-    "repo_type": "Node/Core"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "supertestnet/inscriptions-online",
@@ -20652,7 +20652,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Lightning Network",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "t4t5/nostr-react",
@@ -20810,7 +20810,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "tongokongo/bitcoin-basics",
@@ -20976,7 +20976,7 @@
     "latest_release_date": null,
     "api_total_contributors": 5,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "trezor/python-trezor",
@@ -21286,7 +21286,7 @@
     "latest_release_date": null,
     "api_total_contributors": 27,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Developer Education"
+    "repo_type": "Hardware & Signers"
   },
   {
     "id": "trezor/trezor.js",
@@ -21394,7 +21394,7 @@
     "latest_release_date": null,
     "api_total_contributors": 2,
     "layer": "Core & Protocol",
-    "repo_type": "Wallet"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "unchained-capital/bitcoin-multisig-older",
@@ -21454,7 +21454,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Infrastructure"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "vbuterin/bitcoinjs-lib",
@@ -21543,8 +21543,8 @@
     "total_downloads": 40162,
     "latest_release_date": "2021-01-30T07:04:01Z",
     "api_total_contributors": 60,
-    "layer": "Mining Infrastructure",
-    "repo_type": "Mining"
+    "layer": "Ecosystem Tooling",
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "vishalxl/Nostr-Clients-Features-List",
@@ -21706,7 +21706,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Ecosystem Tooling",
-    "repo_type": "Library"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "x25/coinhive-stratum-mining-proxy",
@@ -21753,7 +21753,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "xiiiew/lightning-engine",
@@ -21809,7 +21809,7 @@
     "total_downloads": 655,
     "latest_release_date": "2019-09-29T11:56:36Z",
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Library"
   },
   {
     "id": "yinchengtsinghua/BitCoinCppChinese",
@@ -21829,7 +21829,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "yinchengtsinghua/GoBitCoinWalletChina",
@@ -21869,7 +21869,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "ymgve/bitcoin_fork_claimer",
@@ -21910,7 +21910,7 @@
     "latest_release_date": null,
     "api_total_contributors": 25,
     "layer": "Mining Infrastructure",
-    "repo_type": "Mining"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "zacharski/pg2dm-python",
@@ -21951,7 +21951,7 @@
     "latest_release_date": null,
     "api_total_contributors": 55,
     "layer": "Core & Protocol",
-    "repo_type": "Node/Core"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "zack-bitcoin/amoveo-mining-pool",
@@ -21992,7 +21992,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Developer Education"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "zapstore/zapstore",
@@ -22170,7 +22170,7 @@
     "total_downloads": 0,
     "latest_release_date": null,
     "layer": "Core & Protocol",
-    "repo_type": "Node/Core"
+    "repo_type": "Tooling (Other)"
   },
   {
     "id": "zw/bitcoin-gh-meta",
