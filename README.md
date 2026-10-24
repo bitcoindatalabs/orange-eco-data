@@ -35,3 +35,10 @@ By identifying these clusters and analyzing shared contributors, we can map how 
 - `src/` & `scripts/`: The Python data pipeline code.
 - `data/`: Local storage for gigabytes of raw and curated data (Ignored by Git).
 - `scratch/`: Local ad-hoc queries and messy scripts (Ignored by Git).
+
+---
+
+## License
+
+Data: [CC BY 4.0](LICENSE). Free to use, including commercially, with credit: "Source: Bitcoin Data Labs
+(bitcoindatalabs.org)". Text written by others (repository descriptions, profile fields) belongs to its authors.
